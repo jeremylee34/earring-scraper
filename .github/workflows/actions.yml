@@ -1,11 +1,11 @@
 name: run main.py
 
-on:
+on: 
   schedule:
     - cron: '40 8 * * *' # At 9AM and 9PM everyday
   push:
     branches: [ main ]
-
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
