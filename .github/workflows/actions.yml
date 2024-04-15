@@ -3,6 +3,8 @@ name: run main.py
 on:
   schedule:
     - cron: '30 18 * * *' # At 9AM and 9PM everyday
+  push:
+    branches: [ main ]
 
 jobs:
   build:
