@@ -2,7 +2,7 @@ name: run main.py
 
 on: 
   schedule:
-    - cron: '35 11,23 * * *' # At 9AM and 9PM everyday
+    - cron: '35 3,7,11,23 * * *' # At 9AM and 9PM everyday
   push:
     branches: [ main ]
   workflow_dispatch:
