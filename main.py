@@ -68,7 +68,7 @@ def scrape_content(url):
         response = requests.get(url)
         response.raise_for_status()
         soup = BeautifulSoup(response.content, 'lxml')
-        select_element = soup.find("select", id="Variants-template--15559625310273__main-product")
+        select_element = soup.find("select", id="Variants-template--15728468131905__main-product")
 
         variants=['Silver', 'Gold', 'Rose Gold']
         for idx, option in enumerate(select_element.find_all("option")):
