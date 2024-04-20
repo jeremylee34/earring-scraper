@@ -173,8 +173,8 @@ h1,h2,h3,h4,h5,h6,
   <meta content="a3b735fbb13df6806300f084c346136f" name="shopify-checkout-api-token"/>
   <meta data-currency="AUD" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-shop-id="1855258689" data-venmo-supported="false" id="in-context-paypal-metadata"/>
   <link href="https://thesilvercollective.com/products/elyse-drop-earrings-silver" hreflang="x-default" rel="alternate"/>
-  <link href="https://thesilvercollective.com/en-gb/products/elyse-drop-earrings-silver" hreflang="en-GB" rel="alternate"/>
   <link href="https://thesilvercollective.com/products/elyse-drop-earrings-silver" hreflang="en-AU" rel="alternate"/>
+  <link href="https://thesilvercollective.com/en-gb/products/elyse-drop-earrings-silver" hreflang="en-GB" rel="alternate"/>
   <link href="https://thesilvercollective.com/products/elyse-drop-earrings-silver.oembed" rel="alternate" type="application/json+oembed"/>
   <script async="async" src="/checkouts/internal/preloads.js?locale=en-AU">
   </script>
@@ -235,7 +235,7 @@ window.ShopifyPay.apiHost = "shop.app\/pay";
 })();
   </script>
   <script id="__st">
-   var __st={"a":1855258689,"offset":36000,"reqid":"3aadcb22-fd84-4a5d-a558-46fe380962b7-1713584400","pageurl":"thesilvercollective.com\/products\/elyse-drop-earrings-silver?variant=40853239889985","u":"eaa1962d9ee0","p":"product","rtyp":"product","rid":6582011985985};
+   var __st={"a":1855258689,"offset":36000,"reqid":"be16ded6-e132-4e01-ba45-2c3a33f538ab-1713598829","pageurl":"thesilvercollective.com\/products\/elyse-drop-earrings-silver?variant=40853239889985","u":"4edbf99037ac","p":"product","rtyp":"product","rid":6582011985985};
   </script>
   <script>
    window.ShopifyPaypalV4VisibilityTracking = true;
@@ -493,7 +493,7 @@ window.ShopifyPay.apiHost = "shop.app\/pay";
     
         aco_allProducts.set(`elyse-drop-earrings-silver`,{
               availableForSale: true,
-              collections: [{"id":263097548865,"handle":"gold","title":"14K GOLD","updated_at":"2024-04-20T13:30:12+10:00","body_html":"925 Sterling Silver, plated with 14K Gold.","published_at":"2021-11-26T16:41:52+11:00","sort_order":"manual","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour:Gold"},{"column":"title","relation":"not_contains","condition":"extensions"},{"column":"title","relation":"not_contains","condition":"backs"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"type","relation":"not_contains","condition":"Sale"},{"column":"type","relation":"not_contains","condition":"Sample"},{"column":"title","relation":"not_contains","condition":"Yolanda"},{"column":"title","relation":"not_contains","condition":"Boston"},{"column":"title","relation":"not_contains","condition":"Hunter Cuff"},{"column":"title","relation":"not_contains","condition":"Signature Cuff"},{"column":"type","relation":"not_contains","condition":"Supplies"},{"column":"type","relation":"not_equals","condition":"Bundle"}],"published_scope":"global","image":{"created_at":"2022-07-04T13:37:36+10:00","alt":"","width":1920,"height":800,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Gold-Desktop.jpg?v=1699222011"}},{"id":155221229633,"handle":"14k-rose-gold","title":"14K ROSE GOLD","updated_at":"2024-04-20T13:30:12+10:00","body_html":"\u003cp\u003e\u003cspan data-mce-fragment=\"1\"\u003eOur 14k Rose Gold Jewellery contains a metal mix of 58.3% of rose gold composition. Rose Gold is a soft metal, with 14k rose gold, the metal is beautiful in colour and durable for everyday wear.\u003c\/span\u003e\u003cimg alt=\"\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0018\/5525\/8689\/files\/Terms_and_Conditions_Page_2_4174783d-a96f-4632-9919-b4c84fd6a2cb.jpg?v=1575599924\"\u003e\u003cbr\u003e\u003c\/p\u003e","published_at":"2020-12-02T08:38:42+11:00","sort_order":"manual","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour:Rose Gold"},{"column":"title","relation":"not_contains","condition":"extension"},{"column":"title","relation":"not_contains","condition":"backs"},{"column":"type","relation":"not_contains","condition":"Sale"},{"column":"type","relation":"not_contains","condition":"Sample"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"type","relation":"not_equals","condition":"Bundle"}],"published_scope":"global","image":{"created_at":"2022-07-04T13:41:15+10:00","alt":"","width":1920,"height":800,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/RoseGold-Desktop.jpg?v=1699222049"}},{"id":264266121281,"handle":"best-sellers","title":"BEST SELLERS","updated_at":"2024-04-20T12:55:05+10:00","body_html":"\u003cp data-mce-fragment=\"1\"\u003e\u003cspan data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\"\u003eOur crowd favourites, universally loved for all occasions. The perfect addition to elevate your jewellery look. Add these to your collection. Silver, Gold and Rose Gold - We’ve got your metal colour covered.\u003c\/span\u003e\u003c\/p\u003e","published_at":"2022-01-14T15:55:40+11:00","sort_order":"manual","template_suffix":"best-sellers","disjunctive":false,"rules":[{"column":"type","relation":"not_equals","condition":"Sample"},{"column":"tag","relation":"equals","condition":"best seller"},{"column":"type","relation":"not_equals","condition":"Sale"}],"published_scope":"global","image":{"created_at":"2023-04-05T10:39:17+10:00","alt":"","width":1920,"height":800,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Collection-Desktop_03886f6f-b551-43bd-895e-8426395d09ff.webp?v=1699221382"}},{"id":268974948417,"handle":"bridal-collection","updated_at":"2024-04-20T13:05:10+10:00","published_at":"2022-08-29T16:42:05+10:00","sort_order":"manual","template_suffix":"bridal-2023","published_scope":"global","title":"Bridal Collection","body_html":"\u003cp\u003e\u003cstrong\u003eTie the Knot \u003c\/strong\u003e\u003cem\u003e\u003cstrong\u003ein\u003c\/strong\u003e\u003c\/em\u003e\u003cstrong\u003e THE SILVER COLLECTIVE\u003c\/strong\u003e\u003cem\u003e\u003cstrong\u003e. \u003c\/strong\u003e\u003c\/em\u003eFrom Earrings, to Bracelets Necklaces or Rings, find the perfect pieces to make your day extra special. These pieces also make the perfect thank you gift to propose to your bridesmaids.\u003c\/p\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cbr\u003e\u003c\/p\u003e","image":{"created_at":"2022-09-07T16:41:22+10:00","alt":null,"width":2880,"height":760,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Bride-Desktop_cf21dae9-4132-4f54-8648-e9dde0e61ce9.jpg?v=1662532882"}},{"id":269133578305,"handle":"bride-to-be","updated_at":"2024-04-20T13:05:10+10:00","published_at":"2022-09-06T09:47:12+10:00","sort_order":"manual","template_suffix":"bride-to-be","published_scope":"global","title":"Bride to Be","body_html":"","image":{"created_at":"2022-09-06T12:11:04+10:00","alt":null,"width":2880,"height":760,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Bride-Desktop.jpg?v=1662430265"}},{"id":276288897089,"handle":"drop-earrings","title":"Drop Earrings","updated_at":"2024-04-19T14:45:13+10:00","body_html":"","published_at":"2024-03-06T10:21:38+11:00","sort_order":"manual","template_suffix":"earrings","disjunctive":false,"rules":[{"column":"type","relation":"not_equals","condition":"Supplies"},{"column":"title","relation":"contains","condition":"Drop Earrings"}],"published_scope":"global"},{"id":34619129921,"handle":"earrings","title":"Earrings","updated_at":"2024-04-20T13:30:12+10:00","body_html":"\u003cmeta charset=\"utf-8\"\u003e\u003cspan data-mce-fragment=\"1\"\u003eEndlessly versatile, perfect to elevate a look from day to night. Curate with our layering essentials of studs and hoops.\u003c\/span\u003e","published_at":"2018-04-10T11:28:48+10:00","sort_order":"manual","template_suffix":"earrings","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"earrings"},{"column":"title","relation":"not_contains","condition":"backs"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"type","relation":"not_equals","condition":"Sale"},{"column":"title","relation":"not_contains","condition":"Sample"},{"column":"type","relation":"not_equals","condition":"Supplies"},{"column":"type","relation":"not_equals","condition":"Bundle"}],"published_scope":"global","image":{"created_at":"2022-02-10T13:16:54+11:00","alt":"","width":1920,"height":800,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/CollectionBannerDesktop-Earrings_1.jpg?v=1699221514"}},{"id":270191853633,"handle":"80-99","title":"Gifts $80-$99","updated_at":"2024-04-20T12:45:07+10:00","body_html":"","published_at":"2022-11-08T07:59:39+11:00","sort_order":"manual","template_suffix":"","disjunctive":false,"rules":[{"column":"variant_price","relation":"greater_than","condition":"80"},{"column":"variant_price","relation":"less_than","condition":"99"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"type","relation":"not_equals","condition":"Sale"},{"column":"title","relation":"not_contains","condition":"Sample"},{"column":"type","relation":"not_contains","condition":"Supplies"}],"published_scope":"global","image":{"created_at":"2022-11-08T09:49:36+11:00","alt":"","width":1920,"height":800,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/80to100-Desktop.jpg?v=1699507115"}},{"id":155176894529,"handle":"under-100","title":"Gifts Under $100","updated_at":"2024-04-20T13:30:09+10:00","body_html":"","published_at":"2019-11-29T14:10:49+11:00","sort_order":"manual","template_suffix":"","disjunctive":false,"rules":[{"column":"variant_price","relation":"less_than","condition":"100"},{"column":"title","relation":"not_contains","condition":"fee"},{"column":"title","relation":"not_contains","condition":"shipping"},{"column":"title","relation":"not_contains","condition":"extension"},{"column":"title","relation":"not_contains","condition":"backs"},{"column":"title","relation":"not_contains","condition":"wrapping"},{"column":"variant_price","relation":"greater_than","condition":"58"},{"column":"type","relation":"not_contains","condition":"Supplies"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"title","relation":"not_contains","condition":"Sample"},{"column":"type","relation":"not_equals","condition":"Bundle"}],"published_scope":"global","image":{"created_at":"2022-01-28T17:38:13+11:00","alt":null,"width":2880,"height":760,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/GiftsUnder100Collection_1.jpg?v=1646892983"}},{"id":271737454657,"handle":"gold-earrings","title":"Gold Earrings","updated_at":"2024-04-20T13:30:12+10:00","body_html":"","published_at":"2023-04-17T09:51:27+10:00","sort_order":"best-selling","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour:Gold"},{"column":"type","relation":"equals","condition":"Earrings"}],"published_scope":"global"},{"id":277041512513,"handle":"mothers-day-gift-guide","updated_at":"2024-04-20T13:05:10+10:00","published_at":"2024-04-02T11:24:41+11:00","sort_order":"manual","template_suffix":"mothers-day-gift-guide","published_scope":"web","title":"Mothers Day Gift Guide","body_html":"","image":{"created_at":"2024-04-02T11:18:19+11:00","alt":null,"width":2880,"height":1300,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Collection-OurTopPicks-Desktop.webp?v=1712017100"}},{"id":271737487425,"handle":"rose-gold-earrings","title":"Rose Gold Earrings","updated_at":"2024-04-20T13:30:12+10:00","body_html":"","published_at":"2023-04-17T09:52:20+10:00","sort_order":"best-selling","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour: Rose Gold"},{"column":"type","relation":"equals","condition":"Earrings"}],"published_scope":"global"},{"id":275111379009,"handle":"elyse","title":"Siblings - Elyse","updated_at":"2024-04-18T18:25:11+10:00","body_html":"","published_at":"2024-01-29T12:27:03+11:00","sort_order":"best-selling","template_suffix":"","disjunctive":false,"rules":[{"column":"title","relation":"contains","condition":"Elyse"}],"published_scope":"web"},{"id":271737520193,"handle":"silver-earrings","title":"Silver Earrings","updated_at":"2024-04-20T13:30:12+10:00","body_html":"","published_at":"2023-04-17T09:53:02+10:00","sort_order":"best-selling","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour:Silver"},{"column":"type","relation":"equals","condition":"Earrings"}],"published_scope":"global"},{"id":271881273409,"handle":"statement","updated_at":"2024-04-20T13:05:10+10:00","published_at":"2023-05-19T11:52:47+10:00","sort_order":"manual","template_suffix":"","published_scope":"global","title":"Statement","body_html":""},{"id":263097516097,"handle":"silver","title":"STERLING SILVER","updated_at":"2024-04-20T13:30:12+10:00","body_html":"\u003cmeta charset=\"utf-8\"\u003e\u003cspan data-mce-fragment=\"1\"\u003eDiscover jewellery made from 925 Sterling Silver and plated with Rhodium.\u003c\/span\u003e","published_at":"2021-11-26T16:41:05+11:00","sort_order":"manual","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour:Silver"},{"column":"title","relation":"not_contains","condition":"backs"},{"column":"title","relation":"not_contains","condition":"extensions"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"type","relation":"not_contains","condition":"Sale"},{"column":"type","relation":"not_contains","condition":"Sample"},{"column":"title","relation":"not_contains","condition":"Silver Member's"},{"column":"type","relation":"not_equals","condition":"Bundle"}],"published_scope":"global","image":{"created_at":"2022-07-04T15:17:18+10:00","alt":"","width":1920,"height":800,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Silver-Desktop.jpg?v=1699221974"}},{"id":272022110273,"handle":"sterling-silver-1","title":"Sterling Silver","updated_at":"2024-04-20T13:30:12+10:00","body_html":"Discover jewellery made from 925 Sterling Silver and plated with Rhodium.","published_at":"2023-06-22T11:02:24+10:00","sort_order":"manual","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour:Silver"},{"column":"type","relation":"not_equals","condition":"Sale"},{"column":"type","relation":"not_equals","condition":"Sample"},{"column":"type","relation":"not_equals","condition":"Accessories"},{"column":"title","relation":"not_contains","condition":"Yolanda"},{"column":"title","relation":"not_contains","condition":"Boston Cuff"},{"column":"title","relation":"not_contains","condition":"Hunter Cuff"},{"column":"title","relation":"not_contains","condition":"Signature Cuff"},{"column":"title","relation":"not_contains","condition":"Silver Member's"},{"column":"type","relation":"not_equals","condition":"Bundle"}],"published_scope":"global"},{"id":156319907905,"handle":"storewide-tsc","updated_at":"2024-04-20T13:30:12+10:00","published_at":"2020-03-17T14:57:56+11:00","sort_order":"manual","template_suffix":"","published_scope":"global","title":"Storewide","body_html":"\u003cmeta charset=\"utf-8\"\u003e\u003cbr\u003e"},{"id":132720361537,"handle":"storewide-sale","updated_at":"2024-04-20T13:30:12+10:00","published_at":"2023-08-07T13:47:39+10:00","sort_order":"manual","template_suffix":"","published_scope":"web","title":"STOREWIDE SALE","body_html":"\u003cspan data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\"\u003eThe 30% OFF Storewide offer starts 8am AEST Thursday 10th of August 2023 and ends 9am AEST Monday 14th of August 2023. To redeem, enter code WETURN8 at checkout. Cannot be used in conjunction with any other offers, discount codes or promotions. Offer cannot be redeemed on previous orders or purchases made after the promotion date. Excludes Gift Cards, Accessories, Extensions and Limited Edition items. Available online and in-store. \u003c\/span\u003e"},{"id":34644721729,"handle":"view-all","title":"VIEW ALL","updated_at":"2024-04-20T13:30:12+10:00","body_html":"\u003cscript type=\"application\/ld+json\"\u003e\n{\n  \"@context\": \"https:\/\/schema.org\/\", \n  \"@type\": \"BreadcrumbList\", \n  \"itemListElement\": [{\n    \"@type\": \"ListItem\", \n    \"position\": 1, \n    \"name\": \"The Silver Collective\",\n    \"item\": \"https:\/\/thesilvercollective.com\/\"  \n  },{\n    \"@type\": \"ListItem\", \n    \"position\": 2, \n    \"name\": \"Shop All\",\n    \"item\": \"https:\/\/thesilvercollective.com\/collections\/view-all\"  \n  }]\n}\n\u003c\/script\u003e\n","published_at":"2018-04-10T16:22:49+10:00","sort_order":"alpha-asc","template_suffix":"","disjunctive":false,"rules":[{"column":"variant_price","relation":"greater_than","condition":"0"},{"column":"type","relation":"not_contains","condition":"Shipping"},{"column":"title","relation":"not_contains","condition":"replacement"},{"column":"title","relation":"not_contains","condition":"mystery"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"type","relation":"not_equals","condition":"Supplies"},{"column":"type","relation":"not_equals","condition":"Sample"}],"published_scope":"global"},{"id":269133611073,"handle":"wedding-guests","updated_at":"2024-04-20T10:05:09+10:00","published_at":"2022-09-06T09:48:32+10:00","sort_order":"manual","template_suffix":"wedding-guest-collection","published_scope":"global","title":"Wedding Guests","body_html":"","image":{"created_at":"2022-09-06T12:09:53+10:00","alt":null,"width":2880,"height":760,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Guest-Desktop.jpg?v=1662430193"}}],
+              collections: [{"id":263097548865,"handle":"gold","title":"14K GOLD","updated_at":"2024-04-20T17:25:06+10:00","body_html":"925 Sterling Silver, plated with 14K Gold.","published_at":"2021-11-26T16:41:52+11:00","sort_order":"manual","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour:Gold"},{"column":"title","relation":"not_contains","condition":"extensions"},{"column":"title","relation":"not_contains","condition":"backs"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"type","relation":"not_contains","condition":"Sale"},{"column":"type","relation":"not_contains","condition":"Sample"},{"column":"title","relation":"not_contains","condition":"Yolanda"},{"column":"title","relation":"not_contains","condition":"Boston"},{"column":"title","relation":"not_contains","condition":"Hunter Cuff"},{"column":"title","relation":"not_contains","condition":"Signature Cuff"},{"column":"type","relation":"not_contains","condition":"Supplies"},{"column":"type","relation":"not_equals","condition":"Bundle"}],"published_scope":"global","image":{"created_at":"2022-07-04T13:37:36+10:00","alt":"","width":1920,"height":800,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Gold-Desktop.jpg?v=1699222011"}},{"id":155221229633,"handle":"14k-rose-gold","title":"14K ROSE GOLD","updated_at":"2024-04-20T17:25:06+10:00","body_html":"\u003cp\u003e\u003cspan data-mce-fragment=\"1\"\u003eOur 14k Rose Gold Jewellery contains a metal mix of 58.3% of rose gold composition. Rose Gold is a soft metal, with 14k rose gold, the metal is beautiful in colour and durable for everyday wear.\u003c\/span\u003e\u003cimg alt=\"\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0018\/5525\/8689\/files\/Terms_and_Conditions_Page_2_4174783d-a96f-4632-9919-b4c84fd6a2cb.jpg?v=1575599924\"\u003e\u003cbr\u003e\u003c\/p\u003e","published_at":"2020-12-02T08:38:42+11:00","sort_order":"manual","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour:Rose Gold"},{"column":"title","relation":"not_contains","condition":"extension"},{"column":"title","relation":"not_contains","condition":"backs"},{"column":"type","relation":"not_contains","condition":"Sale"},{"column":"type","relation":"not_contains","condition":"Sample"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"type","relation":"not_equals","condition":"Bundle"}],"published_scope":"global","image":{"created_at":"2022-07-04T13:41:15+10:00","alt":"","width":1920,"height":800,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/RoseGold-Desktop.jpg?v=1699222049"}},{"id":264266121281,"handle":"best-sellers","title":"BEST SELLERS","updated_at":"2024-04-20T17:25:06+10:00","body_html":"\u003cp data-mce-fragment=\"1\"\u003e\u003cspan data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\"\u003eOur crowd favourites, universally loved for all occasions. The perfect addition to elevate your jewellery look. Add these to your collection. Silver, Gold and Rose Gold - We’ve got your metal colour covered.\u003c\/span\u003e\u003c\/p\u003e","published_at":"2022-01-14T15:55:40+11:00","sort_order":"manual","template_suffix":"best-sellers","disjunctive":false,"rules":[{"column":"type","relation":"not_equals","condition":"Sample"},{"column":"tag","relation":"equals","condition":"best seller"},{"column":"type","relation":"not_equals","condition":"Sale"}],"published_scope":"global","image":{"created_at":"2023-04-05T10:39:17+10:00","alt":"","width":1920,"height":800,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Collection-Desktop_03886f6f-b551-43bd-895e-8426395d09ff.webp?v=1699221382"}},{"id":268974948417,"handle":"bridal-collection","updated_at":"2024-04-20T15:50:06+10:00","published_at":"2022-08-29T16:42:05+10:00","sort_order":"manual","template_suffix":"bridal-2023","published_scope":"global","title":"Bridal Collection","body_html":"\u003cp\u003e\u003cstrong\u003eTie the Knot \u003c\/strong\u003e\u003cem\u003e\u003cstrong\u003ein\u003c\/strong\u003e\u003c\/em\u003e\u003cstrong\u003e THE SILVER COLLECTIVE\u003c\/strong\u003e\u003cem\u003e\u003cstrong\u003e. \u003c\/strong\u003e\u003c\/em\u003eFrom Earrings, to Bracelets Necklaces or Rings, find the perfect pieces to make your day extra special. These pieces also make the perfect thank you gift to propose to your bridesmaids.\u003c\/p\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cbr\u003e\u003c\/p\u003e","image":{"created_at":"2022-09-07T16:41:22+10:00","alt":null,"width":2880,"height":760,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Bride-Desktop_cf21dae9-4132-4f54-8648-e9dde0e61ce9.jpg?v=1662532882"}},{"id":269133578305,"handle":"bride-to-be","updated_at":"2024-04-20T15:50:06+10:00","published_at":"2022-09-06T09:47:12+10:00","sort_order":"manual","template_suffix":"bride-to-be","published_scope":"global","title":"Bride to Be","body_html":"","image":{"created_at":"2022-09-06T12:11:04+10:00","alt":null,"width":2880,"height":760,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Bride-Desktop.jpg?v=1662430265"}},{"id":276288897089,"handle":"drop-earrings","title":"Drop Earrings","updated_at":"2024-04-19T14:45:13+10:00","body_html":"","published_at":"2024-03-06T10:21:38+11:00","sort_order":"manual","template_suffix":"earrings","disjunctive":false,"rules":[{"column":"type","relation":"not_equals","condition":"Supplies"},{"column":"title","relation":"contains","condition":"Drop Earrings"}],"published_scope":"global"},{"id":34619129921,"handle":"earrings","title":"Earrings","updated_at":"2024-04-20T17:25:06+10:00","body_html":"\u003cmeta charset=\"utf-8\"\u003e\u003cspan data-mce-fragment=\"1\"\u003eEndlessly versatile, perfect to elevate a look from day to night. Curate with our layering essentials of studs and hoops.\u003c\/span\u003e","published_at":"2018-04-10T11:28:48+10:00","sort_order":"manual","template_suffix":"earrings","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"earrings"},{"column":"title","relation":"not_contains","condition":"backs"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"type","relation":"not_equals","condition":"Sale"},{"column":"title","relation":"not_contains","condition":"Sample"},{"column":"type","relation":"not_equals","condition":"Supplies"},{"column":"type","relation":"not_equals","condition":"Bundle"}],"published_scope":"global","image":{"created_at":"2022-02-10T13:16:54+11:00","alt":"","width":1920,"height":800,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/CollectionBannerDesktop-Earrings_1.jpg?v=1699221514"}},{"id":270191853633,"handle":"80-99","title":"Gifts $80-$99","updated_at":"2024-04-20T17:25:06+10:00","body_html":"","published_at":"2022-11-08T07:59:39+11:00","sort_order":"manual","template_suffix":"","disjunctive":false,"rules":[{"column":"variant_price","relation":"greater_than","condition":"80"},{"column":"variant_price","relation":"less_than","condition":"99"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"type","relation":"not_equals","condition":"Sale"},{"column":"title","relation":"not_contains","condition":"Sample"},{"column":"type","relation":"not_contains","condition":"Supplies"}],"published_scope":"global","image":{"created_at":"2022-11-08T09:49:36+11:00","alt":"","width":1920,"height":800,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/80to100-Desktop.jpg?v=1699507115"}},{"id":155176894529,"handle":"under-100","title":"Gifts Under $100","updated_at":"2024-04-20T17:25:06+10:00","body_html":"","published_at":"2019-11-29T14:10:49+11:00","sort_order":"manual","template_suffix":"","disjunctive":false,"rules":[{"column":"variant_price","relation":"less_than","condition":"100"},{"column":"title","relation":"not_contains","condition":"fee"},{"column":"title","relation":"not_contains","condition":"shipping"},{"column":"title","relation":"not_contains","condition":"extension"},{"column":"title","relation":"not_contains","condition":"backs"},{"column":"title","relation":"not_contains","condition":"wrapping"},{"column":"variant_price","relation":"greater_than","condition":"58"},{"column":"type","relation":"not_contains","condition":"Supplies"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"title","relation":"not_contains","condition":"Sample"},{"column":"type","relation":"not_equals","condition":"Bundle"}],"published_scope":"global","image":{"created_at":"2022-01-28T17:38:13+11:00","alt":null,"width":2880,"height":760,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/GiftsUnder100Collection_1.jpg?v=1646892983"}},{"id":271737454657,"handle":"gold-earrings","title":"Gold Earrings","updated_at":"2024-04-20T17:25:06+10:00","body_html":"","published_at":"2023-04-17T09:51:27+10:00","sort_order":"best-selling","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour:Gold"},{"column":"type","relation":"equals","condition":"Earrings"}],"published_scope":"global"},{"id":277041512513,"handle":"mothers-day-gift-guide","updated_at":"2024-04-20T16:20:07+10:00","published_at":"2024-04-02T11:24:41+11:00","sort_order":"manual","template_suffix":"mothers-day-gift-guide","published_scope":"web","title":"Mothers Day Gift Guide","body_html":"","image":{"created_at":"2024-04-02T11:18:19+11:00","alt":null,"width":2880,"height":1300,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Collection-OurTopPicks-Desktop.webp?v=1712017100"}},{"id":271737487425,"handle":"rose-gold-earrings","title":"Rose Gold Earrings","updated_at":"2024-04-20T17:25:06+10:00","body_html":"","published_at":"2023-04-17T09:52:20+10:00","sort_order":"best-selling","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour: Rose Gold"},{"column":"type","relation":"equals","condition":"Earrings"}],"published_scope":"global"},{"id":275111379009,"handle":"elyse","title":"Siblings - Elyse","updated_at":"2024-04-18T18:25:11+10:00","body_html":"","published_at":"2024-01-29T12:27:03+11:00","sort_order":"best-selling","template_suffix":"","disjunctive":false,"rules":[{"column":"title","relation":"contains","condition":"Elyse"}],"published_scope":"web"},{"id":271737520193,"handle":"silver-earrings","title":"Silver Earrings","updated_at":"2024-04-20T17:25:06+10:00","body_html":"","published_at":"2023-04-17T09:53:02+10:00","sort_order":"best-selling","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour:Silver"},{"column":"type","relation":"equals","condition":"Earrings"}],"published_scope":"global"},{"id":271881273409,"handle":"statement","updated_at":"2024-04-20T15:50:06+10:00","published_at":"2023-05-19T11:52:47+10:00","sort_order":"manual","template_suffix":"","published_scope":"global","title":"Statement","body_html":""},{"id":263097516097,"handle":"silver","title":"STERLING SILVER","updated_at":"2024-04-20T17:25:06+10:00","body_html":"\u003cmeta charset=\"utf-8\"\u003e\u003cspan data-mce-fragment=\"1\"\u003eDiscover jewellery made from 925 Sterling Silver and plated with Rhodium.\u003c\/span\u003e","published_at":"2021-11-26T16:41:05+11:00","sort_order":"manual","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour:Silver"},{"column":"title","relation":"not_contains","condition":"backs"},{"column":"title","relation":"not_contains","condition":"extensions"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"type","relation":"not_contains","condition":"Sale"},{"column":"type","relation":"not_contains","condition":"Sample"},{"column":"title","relation":"not_contains","condition":"Silver Member's"},{"column":"type","relation":"not_equals","condition":"Bundle"}],"published_scope":"global","image":{"created_at":"2022-07-04T15:17:18+10:00","alt":"","width":1920,"height":800,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Silver-Desktop.jpg?v=1699221974"}},{"id":272022110273,"handle":"sterling-silver-1","title":"Sterling Silver","updated_at":"2024-04-20T17:25:06+10:00","body_html":"Discover jewellery made from 925 Sterling Silver and plated with Rhodium.","published_at":"2023-06-22T11:02:24+10:00","sort_order":"manual","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour:Silver"},{"column":"type","relation":"not_equals","condition":"Sale"},{"column":"type","relation":"not_equals","condition":"Sample"},{"column":"type","relation":"not_equals","condition":"Accessories"},{"column":"title","relation":"not_contains","condition":"Yolanda"},{"column":"title","relation":"not_contains","condition":"Boston Cuff"},{"column":"title","relation":"not_contains","condition":"Hunter Cuff"},{"column":"title","relation":"not_contains","condition":"Signature Cuff"},{"column":"title","relation":"not_contains","condition":"Silver Member's"},{"column":"type","relation":"not_equals","condition":"Bundle"}],"published_scope":"global"},{"id":156319907905,"handle":"storewide-tsc","updated_at":"2024-04-20T17:25:06+10:00","published_at":"2020-03-17T14:57:56+11:00","sort_order":"manual","template_suffix":"","published_scope":"global","title":"Storewide","body_html":"\u003cmeta charset=\"utf-8\"\u003e\u003cbr\u003e"},{"id":132720361537,"handle":"storewide-sale","updated_at":"2024-04-20T17:25:06+10:00","published_at":"2023-08-07T13:47:39+10:00","sort_order":"manual","template_suffix":"","published_scope":"web","title":"STOREWIDE SALE","body_html":"\u003cspan data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\"\u003eThe 30% OFF Storewide offer starts 8am AEST Thursday 10th of August 2023 and ends 9am AEST Monday 14th of August 2023. To redeem, enter code WETURN8 at checkout. Cannot be used in conjunction with any other offers, discount codes or promotions. Offer cannot be redeemed on previous orders or purchases made after the promotion date. Excludes Gift Cards, Accessories, Extensions and Limited Edition items. Available online and in-store. \u003c\/span\u003e"},{"id":34644721729,"handle":"view-all","title":"VIEW ALL","updated_at":"2024-04-20T17:25:06+10:00","body_html":"\u003cscript type=\"application\/ld+json\"\u003e\n{\n  \"@context\": \"https:\/\/schema.org\/\", \n  \"@type\": \"BreadcrumbList\", \n  \"itemListElement\": [{\n    \"@type\": \"ListItem\", \n    \"position\": 1, \n    \"name\": \"The Silver Collective\",\n    \"item\": \"https:\/\/thesilvercollective.com\/\"  \n  },{\n    \"@type\": \"ListItem\", \n    \"position\": 2, \n    \"name\": \"Shop All\",\n    \"item\": \"https:\/\/thesilvercollective.com\/collections\/view-all\"  \n  }]\n}\n\u003c\/script\u003e\n","published_at":"2018-04-10T16:22:49+10:00","sort_order":"alpha-asc","template_suffix":"","disjunctive":false,"rules":[{"column":"variant_price","relation":"greater_than","condition":"0"},{"column":"type","relation":"not_contains","condition":"Shipping"},{"column":"title","relation":"not_contains","condition":"replacement"},{"column":"title","relation":"not_contains","condition":"mystery"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"type","relation":"not_equals","condition":"Supplies"},{"column":"type","relation":"not_equals","condition":"Sample"}],"published_scope":"global"},{"id":269133611073,"handle":"wedding-guests","updated_at":"2024-04-20T13:50:10+10:00","published_at":"2022-09-06T09:48:32+10:00","sort_order":"manual","template_suffix":"wedding-guest-collection","published_scope":"global","title":"Wedding Guests","body_html":"","image":{"created_at":"2022-09-06T12:09:53+10:00","alt":null,"width":2880,"height":760,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Guest-Desktop.jpg?v=1662430193"}}],
               first_variant: {"id":40853239857217,"title":"Gold","option1":"Gold","option2":null,"option3":null,"sku":"2133","requires_shipping":true,"taxable":true,"featured_image":{"id":31948222431297,"product_id":6582011985985,"position":7,"created_at":"2024-03-07T10:36:06+11:00","updated_at":"2024-03-07T10:36:08+11:00","alt":null,"width":1024,"height":1024,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/Silver-Collective-11-Aug-2021_0018_-_1_2c006063-076d-4b0f-961f-fdc464d0f1de.jpg?v=1709768168","variant_ids":[40853239857217]},"available":true,"name":"Elyse Drop Earrings - Gold","public_title":"Gold","options":["Gold"],"price":8300,"weight":38,"compare_at_price":null,"inventory_management":"shopify","barcode":"19272513","featured_media":{"alt":null,"id":24743207927873,"position":7,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/Silver-Collective-11-Aug-2021_0018_-_1_2c006063-076d-4b0f-961f-fdc464d0f1de.jpg?v=1709768168"}},"requires_selling_plan":false,"selling_plan_allocations":[]},
               price:`83.00`,
               compareAtPriceRange: {
@@ -755,11 +755,11 @@ window.ShopifyPay.apiHost = "shop.app\/pay";
   <script defer="defer" src="https://cdn.shopify.com/extensions/09ba5b0d-8a65-46e1-a55b-fda8aac937c6/klaviyo-email-marketing-sms-2/assets/app.js" type="text/javascript">
   </script>
   <link href="https://cdn.shopify.com/extensions/09ba5b0d-8a65-46e1-a55b-fda8aac937c6/klaviyo-email-marketing-sms-2/assets/app.css" media="all" rel="stylesheet" type="text/css"/>
-  <script defer="defer" src="https://cdn.shopify.com/extensions/6563b5b9-76fa-45f8-a97c-df5cb78e915f/appikon-pre-order-17/assets/pre-order-helper.js" type="text/javascript">
+  <script defer="defer" src="https://cdn.shopify.com/extensions/6563b5b9-76fa-45f8-a97c-df5cb78e915f/appikon-pre-order-17/assets/pre-order-product.js" type="text/javascript">
   </script>
   <script defer="defer" src="https://cdn.shopify.com/extensions/f7837460-2cdb-44d4-8db0-b0ce176e3b22/inbox-263/assets/inbox-chat-loader.js" type="text/javascript">
   </script>
-  <script defer="defer" src="https://cdn.shopify.com/extensions/6563b5b9-76fa-45f8-a97c-df5cb78e915f/appikon-pre-order-17/assets/pre-order-product.js" type="text/javascript">
+  <script defer="defer" src="https://cdn.shopify.com/extensions/6563b5b9-76fa-45f8-a97c-df5cb78e915f/appikon-pre-order-17/assets/pre-order-helper.js" type="text/javascript">
   </script>
   <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch"/>
   <script>
@@ -994,7 +994,7 @@ for (var attr in meta) {
   window.BOOMR.themeVersion = "2.6.0";
   window.BOOMR.shopId = 1855258689;
   window.BOOMR.themeId = 128586842177;
-  window.BOOMR.renderRegion = "gcp-us-west1";
+  window.BOOMR.renderRegion = "gcp-us-central1";
   window.BOOMR.url =
     "https://thesilvercollective.com/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
   var where = document.currentScript || document.getElementsByTagName("script")[0];
@@ -5252,54 +5252,6 @@ styles: {
     </script>
    </reviewsio-sessions>
   </div>
-  <div class="shopify-block shopify-app-block" id="shopify-block-6349397681050116253">
-   <script>
-    /*==============================================================================
-# Start map to appikon-pre-order-helper.ftl
-==============================================================================*/
-/*==============================================================================
-# WARNING: This file is auto-generated and any changes that are made may be lost.
-==============================================================================*/
-
-    var _POConfig = _POConfig || {};
-    _POConfig = {"button":{"visible":"true","widget_button_enabled":"true","buttonBorderColor":"","buttonColor":"#ffffff","buttonTextDecoration":"","buttonMarginTop":"","caption":"Pre Order","buttonFontWeight":"","buttonMarginBottom":"","buttonPaddingTop":"","buttonFontSize":"","buttonBackgroundColor":"#000000","buttonPaddingLeft":" ","buttonBorderRadius":"","buttonBorderWidth":"","buttonFontFamily":"Helvetica"},"generic_trigger_handler":true,"require_inventory_management":true,"shop":"www-iconic-style-com.myshopify.com","app_hostname":"xfm8r4vsg4.execute-api.us-west-1.amazonaws.com","quantity_field_enabled":false,"preorder_enabled":true,"ignore_duplicate_skus":false,"instock_qty_level":1,"selectors":{"priceContainerSelector":"","payment_button_selectors":".shopify-payment-button","cartLabelSelector":"","priceRegularValueContainerSelector":"","atcButtonSelector":"#AddToCart"},"defaultSetting":{"quantityLimit":3,"overallQuantityLimit":0,"totalQuantityOrdered":0,"buttonText":"Pre Order","buttonMessage":"This item will be fulfilled once restocked","buttonMessageVisibility":"ALWAYS","cartCheckoutLabel":"Pre-ordered items","preOrderTimeEnable":false,"dateStart":"-1","dateStop":"-1","discountValue":0.0,"discountType":"PERCENTAGE","showPriceOnCheckoutLabelOnCart":false,"showFullPriceLabelOnCart":false,"showSellingPlanLabelOnCart":false,"showPurchaseOptions":true,"showPurchaseOptionsOnSingleSellingPlan":false,"orderTag":"pre-order","comingSoonEnable":false,"comingSoonHeader":"Coming Soon","comingSoonMessage":"Dropping on","comingSoonAvailableFrom":"-1","showPreOrderLabelOnCollectionPage":true,"collectionPagePreOrderLabelText":"Pre-Order Now","collectionPagePreOrderLabelClass":"","collectionPagePreOrderLabelCSS":".appikon-pre-order-button-customization\n{\n        display: block !important;\n       width:100% !important; \n       transition : none !important;\n}\n\n.appikon-pre-order-button\n{\n         transition : none !important;\n}\n\n.appikon-pre-order-button-customization:hover\n{\n       background: #ffffff !important;\n}\n@media screen and (max-width: 769px)\n{\n     .appikon-pre-order-button-customization\n{\n        display: block !important;\n       width: 100% !important;\n} \n}\n\n.appikon-pre-order-button-customization:hover\n{\n    background : #fff !important;\n    color : #000 !important;\n    border : 1px solid #000 !important;\n}\n\n","preOrderClosedMessage":"Sold Out"},"partials":{"empty":true}};
-
-    _POConfig.shop = 'www-iconic-style-com.myshopify.com';
-
-
-    
-    _POConfig.productSettings = ;
-    _POConfig.variantSettings = ;
-    _POConfig.product = {"id":6582011985985,"title":"Elyse Drop Earrings","handle":"elyse-drop-earrings-silver","description":"\u003cmeta charset=\"utf-8\"\u003e\n\u003cdiv\u003e\n\u003cmeta charset=\"utf-8\"\u003e\n\u003cdiv\u003e\u003cem\u003e\u003cstrong\u003eEarrings cannot be returned due to hygiene reasons.\u003c\/strong\u003e\u003c\/em\u003e\u003c\/div\u003e\n\u003cul data-mce-fragment=\"1\"\u003e\n\u003cli data-mce-fragment=\"1\"\u003e925 Sterling Silver\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eWhite Cubic Zirconia\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eRhodium, 14k Gold or 14k Rose Gold plated\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003e\n\u003cmeta charset=\"utf-8\"\u003e \u003cspan\u003eThis piece is Waterproof\u003c\/span\u003e\n\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eEarring length 2cm\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eHook design\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eMatching ring, necklace, bracelet and earrings available\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eLead and nickel free\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eHypoallergenic\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eDesigned in Australia\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003c\/div\u003e\n\u003cul data-mce-fragment=\"1\"\u003e\u003c\/ul\u003e","published_at":"2024-03-07T10:38:27+11:00","created_at":"2021-08-06T11:13:01+10:00","vendor":"One","type":"Earrings","tags":["badge: best seller","best seller","Colour:Gold","Colour:Rose Gold","Colour:Silver","earrings","Material:Stones","PIOCT22","Style:Hook Earrings"],"price":8300,"price_min":8300,"price_max":8300,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":40853239824449,"title":"Silver","option1":"Silver","option2":null,"option3":null,"sku":"2132","requires_shipping":true,"taxable":true,"featured_image":{"id":28449420771393,"product_id":6582011985985,"position":1,"created_at":"2021-08-24T17:01:48+10:00","updated_at":"2021-08-24T17:01:48+10:00","alt":null,"width":1024,"height":1024,"src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/Silver-Collective-11-Aug-2021_0020_-_1.jpg?v=1629788508","variant_ids":[40853239824449]},"available":false,"name":"Elyse Drop Earrings - Silver","public_title":"Silver","options":["Silver"],"price":8300,"weight":38,"compare_at_price":null,"inventory_management":"shopify","barcode":"18322241","featured_media":{"alt":null,"id":20752206430273,"position":1,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/Silver-Collective-11-Aug-2021_0020_-_1.jpg?v=1629788508"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":40853239857217,"title":"Gold","option1":"Gold","option2":null,"option3":null,"sku":"2133","requires_shipping":true,"taxable":true,"featured_image":{"id":31948222431297,"product_id":6582011985985,"position":7,"created_at":"2024-03-07T10:36:06+11:00","updated_at":"2024-03-07T10:36:08+11:00","alt":null,"width":1024,"height":1024,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/Silver-Collective-11-Aug-2021_0018_-_1_2c006063-076d-4b0f-961f-fdc464d0f1de.jpg?v=1709768168","variant_ids":[40853239857217]},"available":true,"name":"Elyse Drop Earrings - Gold","public_title":"Gold","options":["Gold"],"price":8300,"weight":38,"compare_at_price":null,"inventory_management":"shopify","barcode":"19272513","featured_media":{"alt":null,"id":24743207927873,"position":7,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/Silver-Collective-11-Aug-2021_0018_-_1_2c006063-076d-4b0f-961f-fdc464d0f1de.jpg?v=1709768168"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":40853239889985,"title":"Rose Gold","option1":"Rose Gold","option2":null,"option3":null,"sku":"2134","requires_shipping":true,"taxable":true,"featured_image":{"id":31948222464065,"product_id":6582011985985,"position":8,"created_at":"2024-03-07T10:36:27+11:00","updated_at":"2024-03-07T10:36:29+11:00","alt":null,"width":1024,"height":1024,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/Silver-Collective-11-Aug-2021_0019_-_1_329b6403-873c-47c9-b663-bb0120d0440f.jpg?v=1709768189","variant_ids":[40853239889985]},"available":true,"name":"Elyse Drop Earrings - Rose Gold","public_title":"Rose Gold","options":["Rose Gold"],"price":8300,"weight":38,"compare_at_price":null,"inventory_management":"shopify","barcode":"19764033","featured_media":{"alt":null,"id":24743208386625,"position":8,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/Silver-Collective-11-Aug-2021_0019_-_1_329b6403-873c-47c9-b663-bb0120d0440f.jpg?v=1709768189"}},"requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/thesilvercollective.com\/cdn\/shop\/products\/Silver-Collective-11-Aug-2021_0020_-_1.jpg?v=1629788508","\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropEarring-Silver-2.jpg?v=1680656178","\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropEarring-Silver-1.jpg?v=1680656178","\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropSilver2.jpg?v=1680656178","\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropSilver3.jpg?v=1680656178","\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropSilver1.jpg?v=1680656178","\/\/thesilvercollective.com\/cdn\/shop\/files\/Silver-Collective-11-Aug-2021_0018_-_1_2c006063-076d-4b0f-961f-fdc464d0f1de.jpg?v=1709768168","\/\/thesilvercollective.com\/cdn\/shop\/files\/Silver-Collective-11-Aug-2021_0019_-_1_329b6403-873c-47c9-b663-bb0120d0440f.jpg?v=1709768189","\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-RoseGold-1_ed5284a1-8cf9-4f99-ab24-8a9ff9fccfa7.jpg?v=1709768208","\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-RoseGold-2_1d5734ed-9953-434d-a1cd-7d2dc96a3b33.jpg?v=1709768208","\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropRoseGold1_d86df6d4-1487-4f17-8791-d646aeedfe76.jpg?v=1709768208","\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropRoseGold2_f5228ad3-fc45-46e2-bfcf-a4725b71d5be.jpg?v=1709768208","\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropRoseGold3_b85c979b-d001-43a8-b8f3-af3876ec72e3.jpg?v=1709768208","\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropRoseGold3_71bc513f-e058-4056-a8bb-edf1c388bd32.jpg?v=1709768208","\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-Gold-1_f3b913a2-da17-460e-82b4-6e7b67420fdf.jpg?v=1709768219","\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-Gold-2_446818f0-2597-4cf9-9ec0-7c275774e0bd.jpg?v=1709768219","\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-Gold-3_3e33e416-2361-4ff3-a910-ce4b525cb66f.jpg?v=1709768219","\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropGold_81da8f15-c8e5-42a0-8b4f-4d1f24feb7e5.jpg?v=1709768219"],"featured_image":"\/\/thesilvercollective.com\/cdn\/shop\/products\/Silver-Collective-11-Aug-2021_0020_-_1.jpg?v=1629788508","options":["Colour"],"media":[{"alt":null,"id":20752206430273,"position":1,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/Silver-Collective-11-Aug-2021_0020_-_1.jpg?v=1629788508"},"aspect_ratio":1.0,"height":1024,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/Silver-Collective-11-Aug-2021_0020_-_1.jpg?v=1629788508","width":1024},{"alt":"#colour_silver","id":23614597201985,"position":2,"preview_image":{"aspect_ratio":1.0,"height":1080,"width":1080,"src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropEarring-Silver-2.jpg?v=1680656178"},"aspect_ratio":1.0,"height":1080,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropEarring-Silver-2.jpg?v=1680656178","width":1080},{"alt":"#colour_silver","id":23614597234753,"position":3,"preview_image":{"aspect_ratio":1.0,"height":1080,"width":1080,"src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropEarring-Silver-1.jpg?v=1680656178"},"aspect_ratio":1.0,"height":1080,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropEarring-Silver-1.jpg?v=1680656178","width":1080},{"alt":"#colour_silver","id":20752235561025,"position":4,"preview_image":{"aspect_ratio":1.0,"height":2000,"width":2000,"src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropSilver2.jpg?v=1680656178"},"aspect_ratio":1.0,"height":2000,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropSilver2.jpg?v=1680656178","width":2000},{"alt":"#colour_silver","id":20752235528257,"position":5,"preview_image":{"aspect_ratio":1.0,"height":2000,"width":2000,"src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropSilver3.jpg?v=1680656178"},"aspect_ratio":1.0,"height":2000,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropSilver3.jpg?v=1680656178","width":2000},{"alt":"#colour_silver","id":20752235593793,"position":6,"preview_image":{"aspect_ratio":1.0,"height":2000,"width":2000,"src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropSilver1.jpg?v=1680656178"},"aspect_ratio":1.0,"height":2000,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropSilver1.jpg?v=1680656178","width":2000},{"alt":null,"id":24743207927873,"position":7,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/Silver-Collective-11-Aug-2021_0018_-_1_2c006063-076d-4b0f-961f-fdc464d0f1de.jpg?v=1709768168"},"aspect_ratio":1.0,"height":1024,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/Silver-Collective-11-Aug-2021_0018_-_1_2c006063-076d-4b0f-961f-fdc464d0f1de.jpg?v=1709768168","width":1024},{"alt":null,"id":24743208386625,"position":8,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/Silver-Collective-11-Aug-2021_0019_-_1_329b6403-873c-47c9-b663-bb0120d0440f.jpg?v=1709768189"},"aspect_ratio":1.0,"height":1024,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/Silver-Collective-11-Aug-2021_0019_-_1_329b6403-873c-47c9-b663-bb0120d0440f.jpg?v=1709768189","width":1024},{"alt":"#colour_rose-gold","id":24743209861185,"position":9,"preview_image":{"aspect_ratio":1.0,"height":1080,"width":1080,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-RoseGold-1_ed5284a1-8cf9-4f99-ab24-8a9ff9fccfa7.jpg?v=1709768208"},"aspect_ratio":1.0,"height":1080,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-RoseGold-1_ed5284a1-8cf9-4f99-ab24-8a9ff9fccfa7.jpg?v=1709768208","width":1080},{"alt":"#colour_rose-gold","id":24743209893953,"position":10,"preview_image":{"aspect_ratio":1.0,"height":1080,"width":1080,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-RoseGold-2_1d5734ed-9953-434d-a1cd-7d2dc96a3b33.jpg?v=1709768208"},"aspect_ratio":1.0,"height":1080,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-RoseGold-2_1d5734ed-9953-434d-a1cd-7d2dc96a3b33.jpg?v=1709768208","width":1080},{"alt":"#colour_rose-gold","id":24743209926721,"position":11,"preview_image":{"aspect_ratio":1.0,"height":2000,"width":2000,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropRoseGold1_d86df6d4-1487-4f17-8791-d646aeedfe76.jpg?v=1709768208"},"aspect_ratio":1.0,"height":2000,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropRoseGold1_d86df6d4-1487-4f17-8791-d646aeedfe76.jpg?v=1709768208","width":2000},{"alt":"#colour_rose-gold","id":24743209959489,"position":12,"preview_image":{"aspect_ratio":1.0,"height":2000,"width":2000,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropRoseGold2_f5228ad3-fc45-46e2-bfcf-a4725b71d5be.jpg?v=1709768208"},"aspect_ratio":1.0,"height":2000,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropRoseGold2_f5228ad3-fc45-46e2-bfcf-a4725b71d5be.jpg?v=1709768208","width":2000},{"alt":"#colour_rose-gold","id":24743209992257,"position":13,"preview_image":{"aspect_ratio":1.0,"height":1080,"width":1080,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropRoseGold3_b85c979b-d001-43a8-b8f3-af3876ec72e3.jpg?v=1709768208"},"aspect_ratio":1.0,"height":1080,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropRoseGold3_b85c979b-d001-43a8-b8f3-af3876ec72e3.jpg?v=1709768208","width":1080},{"alt":"#colour_rose-gold","id":24743210025025,"position":14,"preview_image":{"aspect_ratio":1.0,"height":2000,"width":2000,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropRoseGold3_71bc513f-e058-4056-a8bb-edf1c388bd32.jpg?v=1709768208"},"aspect_ratio":1.0,"height":2000,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropRoseGold3_71bc513f-e058-4056-a8bb-edf1c388bd32.jpg?v=1709768208","width":2000},{"alt":"#colour_gold","id":24743210090561,"position":15,"preview_image":{"aspect_ratio":1.0,"height":1080,"width":1080,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-Gold-1_f3b913a2-da17-460e-82b4-6e7b67420fdf.jpg?v=1709768219"},"aspect_ratio":1.0,"height":1080,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-Gold-1_f3b913a2-da17-460e-82b4-6e7b67420fdf.jpg?v=1709768219","width":1080},{"alt":"#colour_gold","id":24743210123329,"position":16,"preview_image":{"aspect_ratio":1.0,"height":1080,"width":1080,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-Gold-2_446818f0-2597-4cf9-9ec0-7c275774e0bd.jpg?v=1709768219"},"aspect_ratio":1.0,"height":1080,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-Gold-2_446818f0-2597-4cf9-9ec0-7c275774e0bd.jpg?v=1709768219","width":1080},{"alt":"#colour_gold","id":24743210156097,"position":17,"preview_image":{"aspect_ratio":1.0,"height":1080,"width":1080,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-Gold-3_3e33e416-2361-4ff3-a910-ce4b525cb66f.jpg?v=1709768219"},"aspect_ratio":1.0,"height":1080,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-Gold-3_3e33e416-2361-4ff3-a910-ce4b525cb66f.jpg?v=1709768219","width":1080},{"alt":"#colour_gold","id":24743210188865,"position":18,"preview_image":{"aspect_ratio":1.0,"height":2000,"width":2000,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropGold_81da8f15-c8e5-42a0-8b4f-4d1f24feb7e5.jpg?v=1709768219"},"aspect_ratio":1.0,"height":2000,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropGold_81da8f15-c8e5-42a0-8b4f-4d1f24feb7e5.jpg?v=1709768219","width":2000}],"requires_selling_plan":false,"selling_plan_groups":[],"content":"\u003cmeta charset=\"utf-8\"\u003e\n\u003cdiv\u003e\n\u003cmeta charset=\"utf-8\"\u003e\n\u003cdiv\u003e\u003cem\u003e\u003cstrong\u003eEarrings cannot be returned due to hygiene reasons.\u003c\/strong\u003e\u003c\/em\u003e\u003c\/div\u003e\n\u003cul data-mce-fragment=\"1\"\u003e\n\u003cli data-mce-fragment=\"1\"\u003e925 Sterling Silver\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eWhite Cubic Zirconia\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eRhodium, 14k Gold or 14k Rose Gold plated\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003e\n\u003cmeta charset=\"utf-8\"\u003e \u003cspan\u003eThis piece is Waterproof\u003c\/span\u003e\n\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eEarring length 2cm\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eHook design\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eMatching ring, necklace, bracelet and earrings available\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eLead and nickel free\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eHypoallergenic\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eDesigned in Australia\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003c\/div\u003e\n\u003cul data-mce-fragment=\"1\"\u003e\u003c\/ul\u003e"};
-    _POConfig.product.collections = [{"id":263097548865,"handle":"gold","title":"14K GOLD","updated_at":"2024-04-20T13:30:12+10:00","body_html":"925 Sterling Silver, plated with 14K Gold.","published_at":"2021-11-26T16:41:52+11:00","sort_order":"manual","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour:Gold"},{"column":"title","relation":"not_contains","condition":"extensions"},{"column":"title","relation":"not_contains","condition":"backs"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"type","relation":"not_contains","condition":"Sale"},{"column":"type","relation":"not_contains","condition":"Sample"},{"column":"title","relation":"not_contains","condition":"Yolanda"},{"column":"title","relation":"not_contains","condition":"Boston"},{"column":"title","relation":"not_contains","condition":"Hunter Cuff"},{"column":"title","relation":"not_contains","condition":"Signature Cuff"},{"column":"type","relation":"not_contains","condition":"Supplies"},{"column":"type","relation":"not_equals","condition":"Bundle"}],"published_scope":"global","image":{"created_at":"2022-07-04T13:37:36+10:00","alt":"","width":1920,"height":800,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Gold-Desktop.jpg?v=1699222011"}},{"id":155221229633,"handle":"14k-rose-gold","title":"14K ROSE GOLD","updated_at":"2024-04-20T13:30:12+10:00","body_html":"\u003cp\u003e\u003cspan data-mce-fragment=\"1\"\u003eOur 14k Rose Gold Jewellery contains a metal mix of 58.3% of rose gold composition. Rose Gold is a soft metal, with 14k rose gold, the metal is beautiful in colour and durable for everyday wear.\u003c\/span\u003e\u003cimg alt=\"\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0018\/5525\/8689\/files\/Terms_and_Conditions_Page_2_4174783d-a96f-4632-9919-b4c84fd6a2cb.jpg?v=1575599924\"\u003e\u003cbr\u003e\u003c\/p\u003e","published_at":"2020-12-02T08:38:42+11:00","sort_order":"manual","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour:Rose Gold"},{"column":"title","relation":"not_contains","condition":"extension"},{"column":"title","relation":"not_contains","condition":"backs"},{"column":"type","relation":"not_contains","condition":"Sale"},{"column":"type","relation":"not_contains","condition":"Sample"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"type","relation":"not_equals","condition":"Bundle"}],"published_scope":"global","image":{"created_at":"2022-07-04T13:41:15+10:00","alt":"","width":1920,"height":800,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/RoseGold-Desktop.jpg?v=1699222049"}},{"id":264266121281,"handle":"best-sellers","title":"BEST SELLERS","updated_at":"2024-04-20T12:55:05+10:00","body_html":"\u003cp data-mce-fragment=\"1\"\u003e\u003cspan data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\"\u003eOur crowd favourites, universally loved for all occasions. The perfect addition to elevate your jewellery look. Add these to your collection. Silver, Gold and Rose Gold - We’ve got your metal colour covered.\u003c\/span\u003e\u003c\/p\u003e","published_at":"2022-01-14T15:55:40+11:00","sort_order":"manual","template_suffix":"best-sellers","disjunctive":false,"rules":[{"column":"type","relation":"not_equals","condition":"Sample"},{"column":"tag","relation":"equals","condition":"best seller"},{"column":"type","relation":"not_equals","condition":"Sale"}],"published_scope":"global","image":{"created_at":"2023-04-05T10:39:17+10:00","alt":"","width":1920,"height":800,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Collection-Desktop_03886f6f-b551-43bd-895e-8426395d09ff.webp?v=1699221382"}},{"id":268974948417,"handle":"bridal-collection","updated_at":"2024-04-20T13:05:10+10:00","published_at":"2022-08-29T16:42:05+10:00","sort_order":"manual","template_suffix":"bridal-2023","published_scope":"global","title":"Bridal Collection","body_html":"\u003cp\u003e\u003cstrong\u003eTie the Knot \u003c\/strong\u003e\u003cem\u003e\u003cstrong\u003ein\u003c\/strong\u003e\u003c\/em\u003e\u003cstrong\u003e THE SILVER COLLECTIVE\u003c\/strong\u003e\u003cem\u003e\u003cstrong\u003e. \u003c\/strong\u003e\u003c\/em\u003eFrom Earrings, to Bracelets Necklaces or Rings, find the perfect pieces to make your day extra special. These pieces also make the perfect thank you gift to propose to your bridesmaids.\u003c\/p\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cbr\u003e\u003c\/p\u003e","image":{"created_at":"2022-09-07T16:41:22+10:00","alt":null,"width":2880,"height":760,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Bride-Desktop_cf21dae9-4132-4f54-8648-e9dde0e61ce9.jpg?v=1662532882"}},{"id":269133578305,"handle":"bride-to-be","updated_at":"2024-04-20T13:05:10+10:00","published_at":"2022-09-06T09:47:12+10:00","sort_order":"manual","template_suffix":"bride-to-be","published_scope":"global","title":"Bride to Be","body_html":"","image":{"created_at":"2022-09-06T12:11:04+10:00","alt":null,"width":2880,"height":760,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Bride-Desktop.jpg?v=1662430265"}},{"id":276288897089,"handle":"drop-earrings","title":"Drop Earrings","updated_at":"2024-04-19T14:45:13+10:00","body_html":"","published_at":"2024-03-06T10:21:38+11:00","sort_order":"manual","template_suffix":"earrings","disjunctive":false,"rules":[{"column":"type","relation":"not_equals","condition":"Supplies"},{"column":"title","relation":"contains","condition":"Drop Earrings"}],"published_scope":"global"},{"id":34619129921,"handle":"earrings","title":"Earrings","updated_at":"2024-04-20T13:30:12+10:00","body_html":"\u003cmeta charset=\"utf-8\"\u003e\u003cspan data-mce-fragment=\"1\"\u003eEndlessly versatile, perfect to elevate a look from day to night. Curate with our layering essentials of studs and hoops.\u003c\/span\u003e","published_at":"2018-04-10T11:28:48+10:00","sort_order":"manual","template_suffix":"earrings","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"earrings"},{"column":"title","relation":"not_contains","condition":"backs"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"type","relation":"not_equals","condition":"Sale"},{"column":"title","relation":"not_contains","condition":"Sample"},{"column":"type","relation":"not_equals","condition":"Supplies"},{"column":"type","relation":"not_equals","condition":"Bundle"}],"published_scope":"global","image":{"created_at":"2022-02-10T13:16:54+11:00","alt":"","width":1920,"height":800,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/CollectionBannerDesktop-Earrings_1.jpg?v=1699221514"}},{"id":270191853633,"handle":"80-99","title":"Gifts $80-$99","updated_at":"2024-04-20T12:45:07+10:00","body_html":"","published_at":"2022-11-08T07:59:39+11:00","sort_order":"manual","template_suffix":"","disjunctive":false,"rules":[{"column":"variant_price","relation":"greater_than","condition":"80"},{"column":"variant_price","relation":"less_than","condition":"99"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"type","relation":"not_equals","condition":"Sale"},{"column":"title","relation":"not_contains","condition":"Sample"},{"column":"type","relation":"not_contains","condition":"Supplies"}],"published_scope":"global","image":{"created_at":"2022-11-08T09:49:36+11:00","alt":"","width":1920,"height":800,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/80to100-Desktop.jpg?v=1699507115"}},{"id":155176894529,"handle":"under-100","title":"Gifts Under $100","updated_at":"2024-04-20T13:30:09+10:00","body_html":"","published_at":"2019-11-29T14:10:49+11:00","sort_order":"manual","template_suffix":"","disjunctive":false,"rules":[{"column":"variant_price","relation":"less_than","condition":"100"},{"column":"title","relation":"not_contains","condition":"fee"},{"column":"title","relation":"not_contains","condition":"shipping"},{"column":"title","relation":"not_contains","condition":"extension"},{"column":"title","relation":"not_contains","condition":"backs"},{"column":"title","relation":"not_contains","condition":"wrapping"},{"column":"variant_price","relation":"greater_than","condition":"58"},{"column":"type","relation":"not_contains","condition":"Supplies"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"title","relation":"not_contains","condition":"Sample"},{"column":"type","relation":"not_equals","condition":"Bundle"}],"published_scope":"global","image":{"created_at":"2022-01-28T17:38:13+11:00","alt":null,"width":2880,"height":760,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/GiftsUnder100Collection_1.jpg?v=1646892983"}},{"id":271737454657,"handle":"gold-earrings","title":"Gold Earrings","updated_at":"2024-04-20T13:30:12+10:00","body_html":"","published_at":"2023-04-17T09:51:27+10:00","sort_order":"best-selling","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour:Gold"},{"column":"type","relation":"equals","condition":"Earrings"}],"published_scope":"global"},{"id":277041512513,"handle":"mothers-day-gift-guide","updated_at":"2024-04-20T13:05:10+10:00","published_at":"2024-04-02T11:24:41+11:00","sort_order":"manual","template_suffix":"mothers-day-gift-guide","published_scope":"web","title":"Mothers Day Gift Guide","body_html":"","image":{"created_at":"2024-04-02T11:18:19+11:00","alt":null,"width":2880,"height":1300,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Collection-OurTopPicks-Desktop.webp?v=1712017100"}},{"id":271737487425,"handle":"rose-gold-earrings","title":"Rose Gold Earrings","updated_at":"2024-04-20T13:30:12+10:00","body_html":"","published_at":"2023-04-17T09:52:20+10:00","sort_order":"best-selling","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour: Rose Gold"},{"column":"type","relation":"equals","condition":"Earrings"}],"published_scope":"global"},{"id":275111379009,"handle":"elyse","title":"Siblings - Elyse","updated_at":"2024-04-18T18:25:11+10:00","body_html":"","published_at":"2024-01-29T12:27:03+11:00","sort_order":"best-selling","template_suffix":"","disjunctive":false,"rules":[{"column":"title","relation":"contains","condition":"Elyse"}],"published_scope":"web"},{"id":271737520193,"handle":"silver-earrings","title":"Silver Earrings","updated_at":"2024-04-20T13:30:12+10:00","body_html":"","published_at":"2023-04-17T09:53:02+10:00","sort_order":"best-selling","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour:Silver"},{"column":"type","relation":"equals","condition":"Earrings"}],"published_scope":"global"},{"id":271881273409,"handle":"statement","updated_at":"2024-04-20T13:05:10+10:00","published_at":"2023-05-19T11:52:47+10:00","sort_order":"manual","template_suffix":"","published_scope":"global","title":"Statement","body_html":""},{"id":263097516097,"handle":"silver","title":"STERLING SILVER","updated_at":"2024-04-20T13:30:12+10:00","body_html":"\u003cmeta charset=\"utf-8\"\u003e\u003cspan data-mce-fragment=\"1\"\u003eDiscover jewellery made from 925 Sterling Silver and plated with Rhodium.\u003c\/span\u003e","published_at":"2021-11-26T16:41:05+11:00","sort_order":"manual","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour:Silver"},{"column":"title","relation":"not_contains","condition":"backs"},{"column":"title","relation":"not_contains","condition":"extensions"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"type","relation":"not_contains","condition":"Sale"},{"column":"type","relation":"not_contains","condition":"Sample"},{"column":"title","relation":"not_contains","condition":"Silver Member's"},{"column":"type","relation":"not_equals","condition":"Bundle"}],"published_scope":"global","image":{"created_at":"2022-07-04T15:17:18+10:00","alt":"","width":1920,"height":800,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Silver-Desktop.jpg?v=1699221974"}},{"id":272022110273,"handle":"sterling-silver-1","title":"Sterling Silver","updated_at":"2024-04-20T13:30:12+10:00","body_html":"Discover jewellery made from 925 Sterling Silver and plated with Rhodium.","published_at":"2023-06-22T11:02:24+10:00","sort_order":"manual","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour:Silver"},{"column":"type","relation":"not_equals","condition":"Sale"},{"column":"type","relation":"not_equals","condition":"Sample"},{"column":"type","relation":"not_equals","condition":"Accessories"},{"column":"title","relation":"not_contains","condition":"Yolanda"},{"column":"title","relation":"not_contains","condition":"Boston Cuff"},{"column":"title","relation":"not_contains","condition":"Hunter Cuff"},{"column":"title","relation":"not_contains","condition":"Signature Cuff"},{"column":"title","relation":"not_contains","condition":"Silver Member's"},{"column":"type","relation":"not_equals","condition":"Bundle"}],"published_scope":"global"},{"id":156319907905,"handle":"storewide-tsc","updated_at":"2024-04-20T13:30:12+10:00","published_at":"2020-03-17T14:57:56+11:00","sort_order":"manual","template_suffix":"","published_scope":"global","title":"Storewide","body_html":"\u003cmeta charset=\"utf-8\"\u003e\u003cbr\u003e"},{"id":132720361537,"handle":"storewide-sale","updated_at":"2024-04-20T13:30:12+10:00","published_at":"2023-08-07T13:47:39+10:00","sort_order":"manual","template_suffix":"","published_scope":"web","title":"STOREWIDE SALE","body_html":"\u003cspan data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\"\u003eThe 30% OFF Storewide offer starts 8am AEST Thursday 10th of August 2023 and ends 9am AEST Monday 14th of August 2023. To redeem, enter code WETURN8 at checkout. Cannot be used in conjunction with any other offers, discount codes or promotions. Offer cannot be redeemed on previous orders or purchases made after the promotion date. Excludes Gift Cards, Accessories, Extensions and Limited Edition items. Available online and in-store. \u003c\/span\u003e"},{"id":34644721729,"handle":"view-all","title":"VIEW ALL","updated_at":"2024-04-20T13:30:12+10:00","body_html":"\u003cscript type=\"application\/ld+json\"\u003e\n{\n  \"@context\": \"https:\/\/schema.org\/\", \n  \"@type\": \"BreadcrumbList\", \n  \"itemListElement\": [{\n    \"@type\": \"ListItem\", \n    \"position\": 1, \n    \"name\": \"The Silver Collective\",\n    \"item\": \"https:\/\/thesilvercollective.com\/\"  \n  },{\n    \"@type\": \"ListItem\", \n    \"position\": 2, \n    \"name\": \"Shop All\",\n    \"item\": \"https:\/\/thesilvercollective.com\/collections\/view-all\"  \n  }]\n}\n\u003c\/script\u003e\n","published_at":"2018-04-10T16:22:49+10:00","sort_order":"alpha-asc","template_suffix":"","disjunctive":false,"rules":[{"column":"variant_price","relation":"greater_than","condition":"0"},{"column":"type","relation":"not_contains","condition":"Shipping"},{"column":"title","relation":"not_contains","condition":"replacement"},{"column":"title","relation":"not_contains","condition":"mystery"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"type","relation":"not_equals","condition":"Supplies"},{"column":"type","relation":"not_equals","condition":"Sample"}],"published_scope":"global"},{"id":269133611073,"handle":"wedding-guests","updated_at":"2024-04-20T10:05:09+10:00","published_at":"2022-09-06T09:48:32+10:00","sort_order":"manual","template_suffix":"wedding-guest-collection","published_scope":"global","title":"Wedding Guests","body_html":"","image":{"created_at":"2022-09-06T12:09:53+10:00","alt":null,"width":2880,"height":760,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Guest-Desktop.jpg?v=1662430193"}}];
-
-    
-    _POConfig.product.variants[0]['inventory_quantity'] = 0;
-    
-    _POConfig.product.variants[1]['inventory_quantity'] = 12;
-    
-    _POConfig.product.variants[2]['inventory_quantity'] = 30;
-    
-
-     _POConfig.product.selected_or_first_available_variant = {"id":40853239889985,"title":"Rose Gold","option1":"Rose Gold","option2":null,"option3":null,"sku":"2134","requires_shipping":true,"taxable":true,"featured_image":{"id":31948222464065,"product_id":6582011985985,"position":8,"created_at":"2024-03-07T10:36:27+11:00","updated_at":"2024-03-07T10:36:29+11:00","alt":null,"width":1024,"height":1024,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/Silver-Collective-11-Aug-2021_0019_-_1_329b6403-873c-47c9-b663-bb0120d0440f.jpg?v=1709768189","variant_ids":[40853239889985]},"available":true,"name":"Elyse Drop Earrings - Rose Gold","public_title":"Rose Gold","options":["Rose Gold"],"price":8300,"weight":38,"compare_at_price":null,"inventory_management":"shopify","barcode":"19764033","featured_media":{"alt":null,"id":24743208386625,"position":8,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/Silver-Collective-11-Aug-2021_0019_-_1_329b6403-873c-47c9-b663-bb0120d0440f.jpg?v=1709768189"}},"requires_selling_plan":false,"selling_plan_allocations":[]};
-    _POConfig.product.selected_or_first_available_variant['inventory_quantity'] = 30;
-    
-
-    
-      _POConfig.cart={"note":null,"attributes":{},"original_total_price":0,"total_price":0,"total_discount":0,"total_weight":0.0,"item_count":0,"items":[],"requires_shipping":false,"currency":"AUD","items_subtotal_price":0,"cart_level_discount_applications":[],"checkout_charge_amount":0}
-      
-    
-/*==============================================================================
-# Finish map to appikon-pre-order-helper.ftl
-==============================================================================*/
-   </script>
-   <div class="appikon-pre-order-liquid-helper" style="display: none!important;">
-   </div>
-  </div>
-  <div class="shopify-block shopify-app-block" id="shopify-block-15683396631634586217">
-   <script data-color="#000000" data-domain="thesilvercollective.com" data-external-identifier="r8M1CMpCTuTAA3oz5DKmm2OWSz6Xr8VrL_0NNi5T-wU" data-greeting-message="Hi+Lovely%21+Please+message+us+if+you+have+questions%2C+or+give+an+idea+of+what+you%E2%80%99re+looking+for.+We%E2%80%99re+happy+to+make+recommendations." data-horizontal-position="bottom_right" data-icon="chat_bubble" data-secondary-color="#ffffff" data-ternary-color="#6a6a6a" data-text="no_text" data-vertical-position="lowest" id="chat-button-container">
-   </script>
-  </div>
   <div class="shopify-block shopify-app-block" id="shopify-block-15316669992541710076">
    <script defer="" src="https://widget.reviews.io/rating-snippet/dist.js">
    </script>
@@ -5358,35 +5310,45 @@ styles: {
         }
    </script>
   </div>
-  <div class="shopify-block shopify-app-block" id="shopify-block-4139971114690857691">
-   <script id="wkCollectionButtons" type="application/json">
+  <div class="shopify-block shopify-app-block" id="shopify-block-13655089695959051254">
+   <script id="wkThemeCode" type="application/json">
     {
-    "injectMethod": "insertAfter",
-    "buttonPlacement": "top-start",
-    "productLinkSelector": "",
-    "injectReferenceJs": "(target, app) => target",
-    "floatingReferenceJs": "(target, app) => target",
-    "productHandleJs": "(target, app) => app.theme.getProductHandle(target.element.href)",
-    "productVariantJs": "(target, app) => app.theme.getVariantId(target.element.href)",
-    "integration": {
-      "productLinkSelector": "",
-      "injectReferenceJs": "(target, app) => target",
-      "floatingReferenceJs": "(target, app) => target",
-      "productHandleJs": "(target, app) => app.theme.getProductHandle(target.element.href)",
-      "productVariantJs": "(target, app) => app.theme.getVariantId(target.element.href)"
-    }
+    "customIconsUrl": null,
+    "addToCartJsUrl": null,
+    "productCardJsUrl": null,
+    "wishlistPageJsUrl": null,
+    "eventSubscribersJsUrl": null,
+    "localeJsonUrl": null,
+    "customCssUrl": "https:\/\/cdn.appmate.io\/themecode\/www-iconic-style-com\/main\/custom.css?v=1695353770857001",
+    "collectionButtonsJsUrl": null,
+    "productPageButtonsJsUrl": "https:\/\/cdn.appmate.io\/themecode\/www-iconic-style-com\/main\/product-page-buttons.js?v=1695352678637228",
+    "headerLinkJsUrl": "https:\/\/cdn.appmate.io\/themecode\/www-iconic-style-com\/main\/header-link.js?v=1695352587356562",
+    "wishlistLinkHeadlessJsUrl": null,
+    "wishlistButtonHeadlessJsUrl": null,
+    "saveForLaterJsUrl": null,
+    "customDataUrl": null,
+    "addWishlistToCartJsUrl": null
   }
    </script>
-   <!-- BEGIN app snippet: z-legacy-collection-buttons-module -->
+   <!-- BEGIN app snippet: z-legacy-theme-code-module -->
    <script>
     if (!window.WishlistKingEmbed) {
     window.WishlistKingEmbed = {
       dependencies: [],
     };
   }
+
+  const themeCode = JSON.parse(document.getElementById('wkThemeCode')?.text ?? '{}');
+  window.WishlistKingEmbed.themeCode = themeCode;
+
   window.WishlistKingEmbed.dependencies = [
     ...window.WishlistKingEmbed.dependencies,
-    "https://cdn.shopify.com/extensions/4e4dd1d8-1062-4a14-9fe2-d1c71c5aae0e/wishlist-king-162/assets/component-wishlist-button-collection.css",
+    themeCode.collectionButtonsJsUrl ? "https://cdn.shopify.com/extensions/4e4dd1d8-1062-4a14-9fe2-d1c71c5aae0e/wishlist-king-162/assets/component-wishlist-button-collection.css" : '',
+    themeCode.productPageButtonsJsUrl ? "https://cdn.shopify.com/extensions/4e4dd1d8-1062-4a14-9fe2-d1c71c5aae0e/wishlist-king-162/assets/component-wishlist-button-product.css" : '',
+    themeCode.headerLinkJsUrl ? "https://cdn.shopify.com/extensions/4e4dd1d8-1062-4a14-9fe2-d1c71c5aae0e/wishlist-king-162/assets/component-wishlist-link.css" : '',
+    themeCode.customCssUrl,
+    themeCode.localeJsonUrl,
+    themeCode.eventSubscribersJsUrl,
   ];
    </script>
    <script type="module">
@@ -5398,146 +5360,34 @@ styles: {
       });
     }
 
-    const appSettings = JSON.parse(document.getElementById('wkAppSettings').text);
-    const collectionButtons = JSON.parse(document.getElementById('wkCollectionButtons').text);
-    const config = collectionButtons.productLinkSelector ? collectionButtons : appSettings.collectionButtons;
+    const themeCode = JSON.parse(document.getElementById('wkThemeCode')?.text ?? '{}');
 
-    import("https://cdn.shopify.com/extensions/4e4dd1d8-1062-4a14-9fe2-d1c71c5aae0e/wishlist-king-162/assets/z-legacy-wishlist-button-collection.js").then(({ inject }) => {
-      inject({
-        app,
-        injectMethod: config.injectMethod,
-        placement: collectionButtons.buttonPlacement,
-        selector: decodeURIComponent(config.productLinkSelector),
-        getInjectReference: eval(config.injectReferenceJs),
-        getFloatReference: eval(config.floatingReferenceJs),
-        getProductHandle: eval(config.productHandleJs),
-        getProductVariant: eval(config.productVariantJs),
-      });
-
-      if (collectionButtons.integration.productLinkSelector) {
-        inject({
+    const isDevMode = app.isDevMode();
+    if (themeCode.collectionButtonsJsUrl) {
+      import("https://cdn.shopify.com/extensions/4e4dd1d8-1062-4a14-9fe2-d1c71c5aae0e/wishlist-king-162/assets/z-legacy-wishlist-button-collection.js").then(({ codeAccess }) =>
+        codeAccess({
           app,
-          injectMethod: 'insertAfter',
-          placement: collectionButtons.buttonPlacement,
-          selector: decodeURIComponent(collectionButtons.integration.productLinkSelector),
-          getInjectReference: eval(collectionButtons.integration.injectReferenceJs),
-          getFloatReference: eval(collectionButtons.integration.floatingReferenceJs),
-          getProductHandle: eval(collectionButtons.integration.productHandleJs),
-          getProductVariant: eval(collectionButtons.integration.productVariantJs),
-        });
-      }
-    });
-  };
-  runWhenReady();
-   </script>
-   <!-- END app snippet -->
-   <style>
-    wishlist-button-collection {
-    --icon-size: 18px;
-    --icon-stroke-width: 1px;
-    --button-offset-vertical: 0px;
-    --button-offset-horizontal: 0px;
-    --button-background-size: 34px;
-    --button-background-border-radius: 24px;
-    --button-border-width: 1px;
-    --button-background-opacity: 85%;
-
-    --button-background: none;
-    --button-border: none;
-    --icon-stroke: rgb(var(--wk-color-accent-1));
-
-    
-  }
-   </style>
-  </div>
-  <div class="shopify-block shopify-app-block" id="shopify-block-6680288666557934739">
-   <script id="wkWishlistPage" type="application/json">
-    {
-    "showVendor": false,
-    "showProductTitle": true,
-    "showPrice": true,
-    "showShareButton": true,
-    "showBuyAllButton": true,
-    "showClearButton": false,
-    "moveToCart": false,
-    "ctaButton": "add-to-cart",
-    "productOptions": "swatches",
-    "wishlistEmptyLink": "\/collections\/all",
-    "removeButtonStyle": "icon"
-  }
-   </script>
-   <!-- BEGIN app snippet: z-legacy-wishlist-page-module -->
-   <script>
-    if (!window.WishlistKingEmbed) {
-    window.WishlistKingEmbed = {
-      dependencies: [],
-    };
-  }
-  window.WishlistKingEmbed.dependencies = [
-    ...window.WishlistKingEmbed.dependencies,
-    "https://cdn.shopify.com/extensions/4e4dd1d8-1062-4a14-9fe2-d1c71c5aae0e/wishlist-king-162/assets/component-wishlist-page-bundle.css",
-  ];
-   </script>
-   <script type="module">
-    const wishlistPage = JSON.parse(document.getElementById('wkWishlistPage')?.text ?? '{}');
-
-  const runWhenReady = () => {
-    const app = window.WishlistKing;
-    if (!app) {
-      return window.document.addEventListener('wk:app:created', runWhenReady, {
-        once: true,
-      });
+          scriptUrl: app.parseDependencyUrl({ url: themeCode.collectionButtonsJsUrl, noCache: isDevMode }),
+        })
+      );
     }
-    import("https://cdn.shopify.com/extensions/4e4dd1d8-1062-4a14-9fe2-d1c71c5aae0e/wishlist-king-162/assets/z-legacy-wishlist-page.js").then(({ inject }) =>
-      inject({
-        app,
-        ...wishlistPage,
-      })
-    );
+    if (themeCode.productPageButtonsJsUrl) {
+      import("https://cdn.shopify.com/extensions/4e4dd1d8-1062-4a14-9fe2-d1c71c5aae0e/wishlist-king-162/assets/z-legacy-wishlist-button-product.js").then(({ codeAccess }) =>
+        codeAccess({
+          app,
+          scriptUrl: app.parseDependencyUrl({ url: themeCode.productPageButtonsJsUrl, noCache: isDevMode }),
+        })
+      );
+    }
+    if (themeCode.headerLinkJsUrl) {
+      import("https://cdn.shopify.com/extensions/4e4dd1d8-1062-4a14-9fe2-d1c71c5aae0e/wishlist-king-162/assets/z-legacy-wishlist-link.js").then(({ codeAccess }) =>
+        codeAccess({ app, scriptUrl: app.parseDependencyUrl({ url: themeCode.headerLinkJsUrl, noCache: isDevMode }) })
+      );
+    }
   };
   runWhenReady();
    </script>
    <!-- END app snippet -->
-   <style>
-    wishlist-page {
-    --text-color: var(--wk-color-text);
-    --page-max-width: 1200px;
-    --page-padding-top: 30px;
-    --page-padding-bottom: 80px;
-    --button-min-height: var(--wk-button-min-height);
-    --button-border-width: var(--wk-button-border-width);
-    --button-border-radius: var(--wk-button-border-radius);
-    --input-min-height: var(--wk-input-min-height);
-    --input-border-width: var(--wk-input-border-width);
-    --input-border-radius: var(--wk-input-border-radius);
-
-    --grid-columns-xs: 1;
-    --grid-columns-sm: 2;
-    --grid-columns-md: 2;
-    --grid-columns-lg: 3;
-    --grid-columns-xl: 4;
-
-    --cta-button-background: rgb(var(--wk-color-background-1));
-    --cta-button-border: solid var(--button-border-width) rgb(var(--wk-color-accent-1));
-    --cta-button-color: rgb(var(--wk-color-outline-button-label));
-
-    --variant-input-background: rgb(var(--wk-color-background-1));
-    --variant-input-border: solid var(--input-border-width) rgba(var(--wk-color-text));
-    --variant-input-color: rgb(var(--wk-color-text));
-    --variant-input-selected-background: var(--variant-input-background);
-    --variant-input-selected-border: solid var(--input-border-width) rgba(var(--wk-color-text));
-    --variant-input-selected-color: var(--variant-input-color);
-    --variant-input-selected-shadow: 0 0 0 var(--input-border-width) rgb(var(--wk-color-text));
-
-    --price-justify-content: center;
-
-    --option-select-label-display: none;
-
-    --image-aspect-ratio: 1/1;
-    --image-object-fit: cover;
-    --meta-text-align: center;
-  }
-   </style>
   </div>
   <div class="shopify-block shopify-app-block" id="shopify-block-17922095692786018703">
    <style type="text/css">
@@ -6058,95 +5908,6 @@ styles: {
     </div>
    </div>
   </div>
-  <div class="shopify-block shopify-app-block" id="shopify-block-10830403595879607806">
-   <script>
-    var reviewsIoStore = 'thesilvercollective.com';
-  
-  
-    
-      
-      var reviewsIoLang = 'en';
-   </script>
-  </div>
-  <div class="shopify-block shopify-app-block" id="shopify-block-13655089695959051254">
-   <script id="wkThemeCode" type="application/json">
-    {
-    "customIconsUrl": null,
-    "addToCartJsUrl": null,
-    "productCardJsUrl": null,
-    "wishlistPageJsUrl": null,
-    "eventSubscribersJsUrl": null,
-    "localeJsonUrl": null,
-    "customCssUrl": "https:\/\/cdn.appmate.io\/themecode\/www-iconic-style-com\/main\/custom.css?v=1695353770857001",
-    "collectionButtonsJsUrl": null,
-    "productPageButtonsJsUrl": "https:\/\/cdn.appmate.io\/themecode\/www-iconic-style-com\/main\/product-page-buttons.js?v=1695352678637228",
-    "headerLinkJsUrl": "https:\/\/cdn.appmate.io\/themecode\/www-iconic-style-com\/main\/header-link.js?v=1695352587356562",
-    "wishlistLinkHeadlessJsUrl": null,
-    "wishlistButtonHeadlessJsUrl": null,
-    "saveForLaterJsUrl": null,
-    "customDataUrl": null,
-    "addWishlistToCartJsUrl": null
-  }
-   </script>
-   <!-- BEGIN app snippet: z-legacy-theme-code-module -->
-   <script>
-    if (!window.WishlistKingEmbed) {
-    window.WishlistKingEmbed = {
-      dependencies: [],
-    };
-  }
-
-  const themeCode = JSON.parse(document.getElementById('wkThemeCode')?.text ?? '{}');
-  window.WishlistKingEmbed.themeCode = themeCode;
-
-  window.WishlistKingEmbed.dependencies = [
-    ...window.WishlistKingEmbed.dependencies,
-    themeCode.collectionButtonsJsUrl ? "https://cdn.shopify.com/extensions/4e4dd1d8-1062-4a14-9fe2-d1c71c5aae0e/wishlist-king-162/assets/component-wishlist-button-collection.css" : '',
-    themeCode.productPageButtonsJsUrl ? "https://cdn.shopify.com/extensions/4e4dd1d8-1062-4a14-9fe2-d1c71c5aae0e/wishlist-king-162/assets/component-wishlist-button-product.css" : '',
-    themeCode.headerLinkJsUrl ? "https://cdn.shopify.com/extensions/4e4dd1d8-1062-4a14-9fe2-d1c71c5aae0e/wishlist-king-162/assets/component-wishlist-link.css" : '',
-    themeCode.customCssUrl,
-    themeCode.localeJsonUrl,
-    themeCode.eventSubscribersJsUrl,
-  ];
-   </script>
-   <script type="module">
-    const runWhenReady = () => {
-    const app = window.WishlistKing;
-    if (!app) {
-      return window.document.addEventListener('wk:app:created', runWhenReady, {
-        once: true,
-      });
-    }
-
-    const themeCode = JSON.parse(document.getElementById('wkThemeCode')?.text ?? '{}');
-
-    const isDevMode = app.isDevMode();
-    if (themeCode.collectionButtonsJsUrl) {
-      import("https://cdn.shopify.com/extensions/4e4dd1d8-1062-4a14-9fe2-d1c71c5aae0e/wishlist-king-162/assets/z-legacy-wishlist-button-collection.js").then(({ codeAccess }) =>
-        codeAccess({
-          app,
-          scriptUrl: app.parseDependencyUrl({ url: themeCode.collectionButtonsJsUrl, noCache: isDevMode }),
-        })
-      );
-    }
-    if (themeCode.productPageButtonsJsUrl) {
-      import("https://cdn.shopify.com/extensions/4e4dd1d8-1062-4a14-9fe2-d1c71c5aae0e/wishlist-king-162/assets/z-legacy-wishlist-button-product.js").then(({ codeAccess }) =>
-        codeAccess({
-          app,
-          scriptUrl: app.parseDependencyUrl({ url: themeCode.productPageButtonsJsUrl, noCache: isDevMode }),
-        })
-      );
-    }
-    if (themeCode.headerLinkJsUrl) {
-      import("https://cdn.shopify.com/extensions/4e4dd1d8-1062-4a14-9fe2-d1c71c5aae0e/wishlist-king-162/assets/z-legacy-wishlist-link.js").then(({ codeAccess }) =>
-        codeAccess({ app, scriptUrl: app.parseDependencyUrl({ url: themeCode.headerLinkJsUrl, noCache: isDevMode }) })
-      );
-    }
-  };
-  runWhenReady();
-   </script>
-   <!-- END app snippet -->
-  </div>
   <div class="shopify-block shopify-app-block" id="shopify-block-14197025361042770389">
    <script>
     window.WishlistKingAppLoaderURL = "https://cdn.shopify.com/extensions/4e4dd1d8-1062-4a14-9fe2-d1c71c5aae0e/wishlist-king-162/assets/app-loader.js";
@@ -6358,6 +6119,245 @@ styles: {
       --wk-shadow-blur: 4px;
       --wk-font-text-scale: 1.0;
     }
+   </style>
+  </div>
+  <div class="shopify-block shopify-app-block" id="shopify-block-6680288666557934739">
+   <script id="wkWishlistPage" type="application/json">
+    {
+    "showVendor": false,
+    "showProductTitle": true,
+    "showPrice": true,
+    "showShareButton": true,
+    "showBuyAllButton": true,
+    "showClearButton": false,
+    "moveToCart": false,
+    "ctaButton": "add-to-cart",
+    "productOptions": "swatches",
+    "wishlistEmptyLink": "\/collections\/all",
+    "removeButtonStyle": "icon"
+  }
+   </script>
+   <!-- BEGIN app snippet: z-legacy-wishlist-page-module -->
+   <script>
+    if (!window.WishlistKingEmbed) {
+    window.WishlistKingEmbed = {
+      dependencies: [],
+    };
+  }
+  window.WishlistKingEmbed.dependencies = [
+    ...window.WishlistKingEmbed.dependencies,
+    "https://cdn.shopify.com/extensions/4e4dd1d8-1062-4a14-9fe2-d1c71c5aae0e/wishlist-king-162/assets/component-wishlist-page-bundle.css",
+  ];
+   </script>
+   <script type="module">
+    const wishlistPage = JSON.parse(document.getElementById('wkWishlistPage')?.text ?? '{}');
+
+  const runWhenReady = () => {
+    const app = window.WishlistKing;
+    if (!app) {
+      return window.document.addEventListener('wk:app:created', runWhenReady, {
+        once: true,
+      });
+    }
+    import("https://cdn.shopify.com/extensions/4e4dd1d8-1062-4a14-9fe2-d1c71c5aae0e/wishlist-king-162/assets/z-legacy-wishlist-page.js").then(({ inject }) =>
+      inject({
+        app,
+        ...wishlistPage,
+      })
+    );
+  };
+  runWhenReady();
+   </script>
+   <!-- END app snippet -->
+   <style>
+    wishlist-page {
+    --text-color: var(--wk-color-text);
+    --page-max-width: 1200px;
+    --page-padding-top: 30px;
+    --page-padding-bottom: 80px;
+    --button-min-height: var(--wk-button-min-height);
+    --button-border-width: var(--wk-button-border-width);
+    --button-border-radius: var(--wk-button-border-radius);
+    --input-min-height: var(--wk-input-min-height);
+    --input-border-width: var(--wk-input-border-width);
+    --input-border-radius: var(--wk-input-border-radius);
+
+    --grid-columns-xs: 1;
+    --grid-columns-sm: 2;
+    --grid-columns-md: 2;
+    --grid-columns-lg: 3;
+    --grid-columns-xl: 4;
+
+    --cta-button-background: rgb(var(--wk-color-background-1));
+    --cta-button-border: solid var(--button-border-width) rgb(var(--wk-color-accent-1));
+    --cta-button-color: rgb(var(--wk-color-outline-button-label));
+
+    --variant-input-background: rgb(var(--wk-color-background-1));
+    --variant-input-border: solid var(--input-border-width) rgba(var(--wk-color-text));
+    --variant-input-color: rgb(var(--wk-color-text));
+    --variant-input-selected-background: var(--variant-input-background);
+    --variant-input-selected-border: solid var(--input-border-width) rgba(var(--wk-color-text));
+    --variant-input-selected-color: var(--variant-input-color);
+    --variant-input-selected-shadow: 0 0 0 var(--input-border-width) rgb(var(--wk-color-text));
+
+    --price-justify-content: center;
+
+    --option-select-label-display: none;
+
+    --image-aspect-ratio: 1/1;
+    --image-object-fit: cover;
+    --meta-text-align: center;
+  }
+   </style>
+  </div>
+  <div class="shopify-block shopify-app-block" id="shopify-block-15683396631634586217">
+   <script data-color="#000000" data-domain="thesilvercollective.com" data-external-identifier="r8M1CMpCTuTAA3oz5DKmm2OWSz6Xr8VrL_0NNi5T-wU" data-greeting-message="Hi+Lovely%21+Please+message+us+if+you+have+questions%2C+or+give+an+idea+of+what+you%E2%80%99re+looking+for.+We%E2%80%99re+happy+to+make+recommendations." data-horizontal-position="bottom_right" data-icon="chat_bubble" data-secondary-color="#ffffff" data-ternary-color="#6a6a6a" data-text="no_text" data-vertical-position="lowest" id="chat-button-container">
+   </script>
+  </div>
+  <div class="shopify-block shopify-app-block" id="shopify-block-6349397681050116253">
+   <script>
+    /*==============================================================================
+# Start map to appikon-pre-order-helper.ftl
+==============================================================================*/
+/*==============================================================================
+# WARNING: This file is auto-generated and any changes that are made may be lost.
+==============================================================================*/
+
+    var _POConfig = _POConfig || {};
+    _POConfig = {"button":{"visible":"true","widget_button_enabled":"true","buttonBorderColor":"","buttonColor":"#ffffff","buttonTextDecoration":"","buttonMarginTop":"","caption":"Pre Order","buttonFontWeight":"","buttonMarginBottom":"","buttonPaddingTop":"","buttonFontSize":"","buttonBackgroundColor":"#000000","buttonPaddingLeft":" ","buttonBorderRadius":"","buttonBorderWidth":"","buttonFontFamily":"Helvetica"},"generic_trigger_handler":true,"require_inventory_management":true,"shop":"www-iconic-style-com.myshopify.com","app_hostname":"xfm8r4vsg4.execute-api.us-west-1.amazonaws.com","quantity_field_enabled":false,"preorder_enabled":true,"ignore_duplicate_skus":false,"instock_qty_level":1,"selectors":{"priceContainerSelector":"","payment_button_selectors":".shopify-payment-button","cartLabelSelector":"","priceRegularValueContainerSelector":"","atcButtonSelector":"#AddToCart"},"defaultSetting":{"quantityLimit":3,"overallQuantityLimit":0,"totalQuantityOrdered":0,"buttonText":"Pre Order","buttonMessage":"This item will be fulfilled once restocked","buttonMessageVisibility":"ALWAYS","cartCheckoutLabel":"Pre-ordered items","preOrderTimeEnable":false,"dateStart":"-1","dateStop":"-1","discountValue":0.0,"discountType":"PERCENTAGE","showPriceOnCheckoutLabelOnCart":false,"showFullPriceLabelOnCart":false,"showSellingPlanLabelOnCart":false,"showPurchaseOptions":true,"showPurchaseOptionsOnSingleSellingPlan":false,"orderTag":"pre-order","comingSoonEnable":false,"comingSoonHeader":"Coming Soon","comingSoonMessage":"Dropping on","comingSoonAvailableFrom":"-1","showPreOrderLabelOnCollectionPage":true,"collectionPagePreOrderLabelText":"Pre-Order Now","collectionPagePreOrderLabelClass":"","collectionPagePreOrderLabelCSS":".appikon-pre-order-button-customization\n{\n        display: block !important;\n       width:100% !important; \n       transition : none !important;\n}\n\n.appikon-pre-order-button\n{\n         transition : none !important;\n}\n\n.appikon-pre-order-button-customization:hover\n{\n       background: #ffffff !important;\n}\n@media screen and (max-width: 769px)\n{\n     .appikon-pre-order-button-customization\n{\n        display: block !important;\n       width: 100% !important;\n} \n}\n\n.appikon-pre-order-button-customization:hover\n{\n    background : #fff !important;\n    color : #000 !important;\n    border : 1px solid #000 !important;\n}\n\n","preOrderClosedMessage":"Sold Out"},"partials":{"empty":true}};
+
+    _POConfig.shop = 'www-iconic-style-com.myshopify.com';
+
+
+    
+    _POConfig.productSettings = ;
+    _POConfig.variantSettings = ;
+    _POConfig.product = {"id":6582011985985,"title":"Elyse Drop Earrings","handle":"elyse-drop-earrings-silver","description":"\u003cmeta charset=\"utf-8\"\u003e\n\u003cdiv\u003e\n\u003cmeta charset=\"utf-8\"\u003e\n\u003cdiv\u003e\u003cem\u003e\u003cstrong\u003eEarrings cannot be returned due to hygiene reasons.\u003c\/strong\u003e\u003c\/em\u003e\u003c\/div\u003e\n\u003cul data-mce-fragment=\"1\"\u003e\n\u003cli data-mce-fragment=\"1\"\u003e925 Sterling Silver\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eWhite Cubic Zirconia\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eRhodium, 14k Gold or 14k Rose Gold plated\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003e\n\u003cmeta charset=\"utf-8\"\u003e \u003cspan\u003eThis piece is Waterproof\u003c\/span\u003e\n\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eEarring length 2cm\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eHook design\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eMatching ring, necklace, bracelet and earrings available\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eLead and nickel free\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eHypoallergenic\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eDesigned in Australia\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003c\/div\u003e\n\u003cul data-mce-fragment=\"1\"\u003e\u003c\/ul\u003e","published_at":"2024-03-07T10:38:27+11:00","created_at":"2021-08-06T11:13:01+10:00","vendor":"One","type":"Earrings","tags":["badge: best seller","best seller","Colour:Gold","Colour:Rose Gold","Colour:Silver","earrings","Material:Stones","PIOCT22","Style:Hook Earrings"],"price":8300,"price_min":8300,"price_max":8300,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":40853239824449,"title":"Silver","option1":"Silver","option2":null,"option3":null,"sku":"2132","requires_shipping":true,"taxable":true,"featured_image":{"id":28449420771393,"product_id":6582011985985,"position":1,"created_at":"2021-08-24T17:01:48+10:00","updated_at":"2021-08-24T17:01:48+10:00","alt":null,"width":1024,"height":1024,"src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/Silver-Collective-11-Aug-2021_0020_-_1.jpg?v=1629788508","variant_ids":[40853239824449]},"available":false,"name":"Elyse Drop Earrings - Silver","public_title":"Silver","options":["Silver"],"price":8300,"weight":38,"compare_at_price":null,"inventory_management":"shopify","barcode":"18322241","featured_media":{"alt":null,"id":20752206430273,"position":1,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/Silver-Collective-11-Aug-2021_0020_-_1.jpg?v=1629788508"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":40853239857217,"title":"Gold","option1":"Gold","option2":null,"option3":null,"sku":"2133","requires_shipping":true,"taxable":true,"featured_image":{"id":31948222431297,"product_id":6582011985985,"position":7,"created_at":"2024-03-07T10:36:06+11:00","updated_at":"2024-03-07T10:36:08+11:00","alt":null,"width":1024,"height":1024,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/Silver-Collective-11-Aug-2021_0018_-_1_2c006063-076d-4b0f-961f-fdc464d0f1de.jpg?v=1709768168","variant_ids":[40853239857217]},"available":true,"name":"Elyse Drop Earrings - Gold","public_title":"Gold","options":["Gold"],"price":8300,"weight":38,"compare_at_price":null,"inventory_management":"shopify","barcode":"19272513","featured_media":{"alt":null,"id":24743207927873,"position":7,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/Silver-Collective-11-Aug-2021_0018_-_1_2c006063-076d-4b0f-961f-fdc464d0f1de.jpg?v=1709768168"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":40853239889985,"title":"Rose Gold","option1":"Rose Gold","option2":null,"option3":null,"sku":"2134","requires_shipping":true,"taxable":true,"featured_image":{"id":31948222464065,"product_id":6582011985985,"position":8,"created_at":"2024-03-07T10:36:27+11:00","updated_at":"2024-03-07T10:36:29+11:00","alt":null,"width":1024,"height":1024,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/Silver-Collective-11-Aug-2021_0019_-_1_329b6403-873c-47c9-b663-bb0120d0440f.jpg?v=1709768189","variant_ids":[40853239889985]},"available":true,"name":"Elyse Drop Earrings - Rose Gold","public_title":"Rose Gold","options":["Rose Gold"],"price":8300,"weight":38,"compare_at_price":null,"inventory_management":"shopify","barcode":"19764033","featured_media":{"alt":null,"id":24743208386625,"position":8,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/Silver-Collective-11-Aug-2021_0019_-_1_329b6403-873c-47c9-b663-bb0120d0440f.jpg?v=1709768189"}},"requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/thesilvercollective.com\/cdn\/shop\/products\/Silver-Collective-11-Aug-2021_0020_-_1.jpg?v=1629788508","\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropEarring-Silver-2.jpg?v=1680656178","\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropEarring-Silver-1.jpg?v=1680656178","\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropSilver2.jpg?v=1680656178","\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropSilver3.jpg?v=1680656178","\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropSilver1.jpg?v=1680656178","\/\/thesilvercollective.com\/cdn\/shop\/files\/Silver-Collective-11-Aug-2021_0018_-_1_2c006063-076d-4b0f-961f-fdc464d0f1de.jpg?v=1709768168","\/\/thesilvercollective.com\/cdn\/shop\/files\/Silver-Collective-11-Aug-2021_0019_-_1_329b6403-873c-47c9-b663-bb0120d0440f.jpg?v=1709768189","\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-RoseGold-1_ed5284a1-8cf9-4f99-ab24-8a9ff9fccfa7.jpg?v=1709768208","\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-RoseGold-2_1d5734ed-9953-434d-a1cd-7d2dc96a3b33.jpg?v=1709768208","\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropRoseGold1_d86df6d4-1487-4f17-8791-d646aeedfe76.jpg?v=1709768208","\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropRoseGold2_f5228ad3-fc45-46e2-bfcf-a4725b71d5be.jpg?v=1709768208","\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropRoseGold3_b85c979b-d001-43a8-b8f3-af3876ec72e3.jpg?v=1709768208","\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropRoseGold3_71bc513f-e058-4056-a8bb-edf1c388bd32.jpg?v=1709768208","\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-Gold-1_f3b913a2-da17-460e-82b4-6e7b67420fdf.jpg?v=1709768219","\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-Gold-2_446818f0-2597-4cf9-9ec0-7c275774e0bd.jpg?v=1709768219","\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-Gold-3_3e33e416-2361-4ff3-a910-ce4b525cb66f.jpg?v=1709768219","\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropGold_81da8f15-c8e5-42a0-8b4f-4d1f24feb7e5.jpg?v=1709768219"],"featured_image":"\/\/thesilvercollective.com\/cdn\/shop\/products\/Silver-Collective-11-Aug-2021_0020_-_1.jpg?v=1629788508","options":["Colour"],"media":[{"alt":null,"id":20752206430273,"position":1,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/Silver-Collective-11-Aug-2021_0020_-_1.jpg?v=1629788508"},"aspect_ratio":1.0,"height":1024,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/Silver-Collective-11-Aug-2021_0020_-_1.jpg?v=1629788508","width":1024},{"alt":"#colour_silver","id":23614597201985,"position":2,"preview_image":{"aspect_ratio":1.0,"height":1080,"width":1080,"src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropEarring-Silver-2.jpg?v=1680656178"},"aspect_ratio":1.0,"height":1080,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropEarring-Silver-2.jpg?v=1680656178","width":1080},{"alt":"#colour_silver","id":23614597234753,"position":3,"preview_image":{"aspect_ratio":1.0,"height":1080,"width":1080,"src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropEarring-Silver-1.jpg?v=1680656178"},"aspect_ratio":1.0,"height":1080,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropEarring-Silver-1.jpg?v=1680656178","width":1080},{"alt":"#colour_silver","id":20752235561025,"position":4,"preview_image":{"aspect_ratio":1.0,"height":2000,"width":2000,"src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropSilver2.jpg?v=1680656178"},"aspect_ratio":1.0,"height":2000,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropSilver2.jpg?v=1680656178","width":2000},{"alt":"#colour_silver","id":20752235528257,"position":5,"preview_image":{"aspect_ratio":1.0,"height":2000,"width":2000,"src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropSilver3.jpg?v=1680656178"},"aspect_ratio":1.0,"height":2000,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropSilver3.jpg?v=1680656178","width":2000},{"alt":"#colour_silver","id":20752235593793,"position":6,"preview_image":{"aspect_ratio":1.0,"height":2000,"width":2000,"src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropSilver1.jpg?v=1680656178"},"aspect_ratio":1.0,"height":2000,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/products\/ElyseDropSilver1.jpg?v=1680656178","width":2000},{"alt":null,"id":24743207927873,"position":7,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/Silver-Collective-11-Aug-2021_0018_-_1_2c006063-076d-4b0f-961f-fdc464d0f1de.jpg?v=1709768168"},"aspect_ratio":1.0,"height":1024,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/Silver-Collective-11-Aug-2021_0018_-_1_2c006063-076d-4b0f-961f-fdc464d0f1de.jpg?v=1709768168","width":1024},{"alt":null,"id":24743208386625,"position":8,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/Silver-Collective-11-Aug-2021_0019_-_1_329b6403-873c-47c9-b663-bb0120d0440f.jpg?v=1709768189"},"aspect_ratio":1.0,"height":1024,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/Silver-Collective-11-Aug-2021_0019_-_1_329b6403-873c-47c9-b663-bb0120d0440f.jpg?v=1709768189","width":1024},{"alt":"#colour_rose-gold","id":24743209861185,"position":9,"preview_image":{"aspect_ratio":1.0,"height":1080,"width":1080,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-RoseGold-1_ed5284a1-8cf9-4f99-ab24-8a9ff9fccfa7.jpg?v=1709768208"},"aspect_ratio":1.0,"height":1080,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-RoseGold-1_ed5284a1-8cf9-4f99-ab24-8a9ff9fccfa7.jpg?v=1709768208","width":1080},{"alt":"#colour_rose-gold","id":24743209893953,"position":10,"preview_image":{"aspect_ratio":1.0,"height":1080,"width":1080,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-RoseGold-2_1d5734ed-9953-434d-a1cd-7d2dc96a3b33.jpg?v=1709768208"},"aspect_ratio":1.0,"height":1080,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-RoseGold-2_1d5734ed-9953-434d-a1cd-7d2dc96a3b33.jpg?v=1709768208","width":1080},{"alt":"#colour_rose-gold","id":24743209926721,"position":11,"preview_image":{"aspect_ratio":1.0,"height":2000,"width":2000,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropRoseGold1_d86df6d4-1487-4f17-8791-d646aeedfe76.jpg?v=1709768208"},"aspect_ratio":1.0,"height":2000,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropRoseGold1_d86df6d4-1487-4f17-8791-d646aeedfe76.jpg?v=1709768208","width":2000},{"alt":"#colour_rose-gold","id":24743209959489,"position":12,"preview_image":{"aspect_ratio":1.0,"height":2000,"width":2000,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropRoseGold2_f5228ad3-fc45-46e2-bfcf-a4725b71d5be.jpg?v=1709768208"},"aspect_ratio":1.0,"height":2000,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropRoseGold2_f5228ad3-fc45-46e2-bfcf-a4725b71d5be.jpg?v=1709768208","width":2000},{"alt":"#colour_rose-gold","id":24743209992257,"position":13,"preview_image":{"aspect_ratio":1.0,"height":1080,"width":1080,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropRoseGold3_b85c979b-d001-43a8-b8f3-af3876ec72e3.jpg?v=1709768208"},"aspect_ratio":1.0,"height":1080,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropRoseGold3_b85c979b-d001-43a8-b8f3-af3876ec72e3.jpg?v=1709768208","width":1080},{"alt":"#colour_rose-gold","id":24743210025025,"position":14,"preview_image":{"aspect_ratio":1.0,"height":2000,"width":2000,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropRoseGold3_71bc513f-e058-4056-a8bb-edf1c388bd32.jpg?v=1709768208"},"aspect_ratio":1.0,"height":2000,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropRoseGold3_71bc513f-e058-4056-a8bb-edf1c388bd32.jpg?v=1709768208","width":2000},{"alt":"#colour_gold","id":24743210090561,"position":15,"preview_image":{"aspect_ratio":1.0,"height":1080,"width":1080,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-Gold-1_f3b913a2-da17-460e-82b4-6e7b67420fdf.jpg?v=1709768219"},"aspect_ratio":1.0,"height":1080,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-Gold-1_f3b913a2-da17-460e-82b4-6e7b67420fdf.jpg?v=1709768219","width":1080},{"alt":"#colour_gold","id":24743210123329,"position":16,"preview_image":{"aspect_ratio":1.0,"height":1080,"width":1080,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-Gold-2_446818f0-2597-4cf9-9ec0-7c275774e0bd.jpg?v=1709768219"},"aspect_ratio":1.0,"height":1080,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-Gold-2_446818f0-2597-4cf9-9ec0-7c275774e0bd.jpg?v=1709768219","width":1080},{"alt":"#colour_gold","id":24743210156097,"position":17,"preview_image":{"aspect_ratio":1.0,"height":1080,"width":1080,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-Gold-3_3e33e416-2361-4ff3-a910-ce4b525cb66f.jpg?v=1709768219"},"aspect_ratio":1.0,"height":1080,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropEarring-Gold-3_3e33e416-2361-4ff3-a910-ce4b525cb66f.jpg?v=1709768219","width":1080},{"alt":"#colour_gold","id":24743210188865,"position":18,"preview_image":{"aspect_ratio":1.0,"height":2000,"width":2000,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropGold_81da8f15-c8e5-42a0-8b4f-4d1f24feb7e5.jpg?v=1709768219"},"aspect_ratio":1.0,"height":2000,"media_type":"image","src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/ElyseDropGold_81da8f15-c8e5-42a0-8b4f-4d1f24feb7e5.jpg?v=1709768219","width":2000}],"requires_selling_plan":false,"selling_plan_groups":[],"content":"\u003cmeta charset=\"utf-8\"\u003e\n\u003cdiv\u003e\n\u003cmeta charset=\"utf-8\"\u003e\n\u003cdiv\u003e\u003cem\u003e\u003cstrong\u003eEarrings cannot be returned due to hygiene reasons.\u003c\/strong\u003e\u003c\/em\u003e\u003c\/div\u003e\n\u003cul data-mce-fragment=\"1\"\u003e\n\u003cli data-mce-fragment=\"1\"\u003e925 Sterling Silver\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eWhite Cubic Zirconia\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eRhodium, 14k Gold or 14k Rose Gold plated\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003e\n\u003cmeta charset=\"utf-8\"\u003e \u003cspan\u003eThis piece is Waterproof\u003c\/span\u003e\n\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eEarring length 2cm\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eHook design\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eMatching ring, necklace, bracelet and earrings available\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eLead and nickel free\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eHypoallergenic\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eDesigned in Australia\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003c\/div\u003e\n\u003cul data-mce-fragment=\"1\"\u003e\u003c\/ul\u003e"};
+    _POConfig.product.collections = [{"id":263097548865,"handle":"gold","title":"14K GOLD","updated_at":"2024-04-20T17:25:06+10:00","body_html":"925 Sterling Silver, plated with 14K Gold.","published_at":"2021-11-26T16:41:52+11:00","sort_order":"manual","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour:Gold"},{"column":"title","relation":"not_contains","condition":"extensions"},{"column":"title","relation":"not_contains","condition":"backs"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"type","relation":"not_contains","condition":"Sale"},{"column":"type","relation":"not_contains","condition":"Sample"},{"column":"title","relation":"not_contains","condition":"Yolanda"},{"column":"title","relation":"not_contains","condition":"Boston"},{"column":"title","relation":"not_contains","condition":"Hunter Cuff"},{"column":"title","relation":"not_contains","condition":"Signature Cuff"},{"column":"type","relation":"not_contains","condition":"Supplies"},{"column":"type","relation":"not_equals","condition":"Bundle"}],"published_scope":"global","image":{"created_at":"2022-07-04T13:37:36+10:00","alt":"","width":1920,"height":800,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Gold-Desktop.jpg?v=1699222011"}},{"id":155221229633,"handle":"14k-rose-gold","title":"14K ROSE GOLD","updated_at":"2024-04-20T17:25:06+10:00","body_html":"\u003cp\u003e\u003cspan data-mce-fragment=\"1\"\u003eOur 14k Rose Gold Jewellery contains a metal mix of 58.3% of rose gold composition. Rose Gold is a soft metal, with 14k rose gold, the metal is beautiful in colour and durable for everyday wear.\u003c\/span\u003e\u003cimg alt=\"\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0018\/5525\/8689\/files\/Terms_and_Conditions_Page_2_4174783d-a96f-4632-9919-b4c84fd6a2cb.jpg?v=1575599924\"\u003e\u003cbr\u003e\u003c\/p\u003e","published_at":"2020-12-02T08:38:42+11:00","sort_order":"manual","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour:Rose Gold"},{"column":"title","relation":"not_contains","condition":"extension"},{"column":"title","relation":"not_contains","condition":"backs"},{"column":"type","relation":"not_contains","condition":"Sale"},{"column":"type","relation":"not_contains","condition":"Sample"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"type","relation":"not_equals","condition":"Bundle"}],"published_scope":"global","image":{"created_at":"2022-07-04T13:41:15+10:00","alt":"","width":1920,"height":800,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/RoseGold-Desktop.jpg?v=1699222049"}},{"id":264266121281,"handle":"best-sellers","title":"BEST SELLERS","updated_at":"2024-04-20T17:25:06+10:00","body_html":"\u003cp data-mce-fragment=\"1\"\u003e\u003cspan data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\"\u003eOur crowd favourites, universally loved for all occasions. The perfect addition to elevate your jewellery look. Add these to your collection. Silver, Gold and Rose Gold - We’ve got your metal colour covered.\u003c\/span\u003e\u003c\/p\u003e","published_at":"2022-01-14T15:55:40+11:00","sort_order":"manual","template_suffix":"best-sellers","disjunctive":false,"rules":[{"column":"type","relation":"not_equals","condition":"Sample"},{"column":"tag","relation":"equals","condition":"best seller"},{"column":"type","relation":"not_equals","condition":"Sale"}],"published_scope":"global","image":{"created_at":"2023-04-05T10:39:17+10:00","alt":"","width":1920,"height":800,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Collection-Desktop_03886f6f-b551-43bd-895e-8426395d09ff.webp?v=1699221382"}},{"id":268974948417,"handle":"bridal-collection","updated_at":"2024-04-20T15:50:06+10:00","published_at":"2022-08-29T16:42:05+10:00","sort_order":"manual","template_suffix":"bridal-2023","published_scope":"global","title":"Bridal Collection","body_html":"\u003cp\u003e\u003cstrong\u003eTie the Knot \u003c\/strong\u003e\u003cem\u003e\u003cstrong\u003ein\u003c\/strong\u003e\u003c\/em\u003e\u003cstrong\u003e THE SILVER COLLECTIVE\u003c\/strong\u003e\u003cem\u003e\u003cstrong\u003e. \u003c\/strong\u003e\u003c\/em\u003eFrom Earrings, to Bracelets Necklaces or Rings, find the perfect pieces to make your day extra special. These pieces also make the perfect thank you gift to propose to your bridesmaids.\u003c\/p\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cbr\u003e\u003c\/p\u003e","image":{"created_at":"2022-09-07T16:41:22+10:00","alt":null,"width":2880,"height":760,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Bride-Desktop_cf21dae9-4132-4f54-8648-e9dde0e61ce9.jpg?v=1662532882"}},{"id":269133578305,"handle":"bride-to-be","updated_at":"2024-04-20T15:50:06+10:00","published_at":"2022-09-06T09:47:12+10:00","sort_order":"manual","template_suffix":"bride-to-be","published_scope":"global","title":"Bride to Be","body_html":"","image":{"created_at":"2022-09-06T12:11:04+10:00","alt":null,"width":2880,"height":760,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Bride-Desktop.jpg?v=1662430265"}},{"id":276288897089,"handle":"drop-earrings","title":"Drop Earrings","updated_at":"2024-04-19T14:45:13+10:00","body_html":"","published_at":"2024-03-06T10:21:38+11:00","sort_order":"manual","template_suffix":"earrings","disjunctive":false,"rules":[{"column":"type","relation":"not_equals","condition":"Supplies"},{"column":"title","relation":"contains","condition":"Drop Earrings"}],"published_scope":"global"},{"id":34619129921,"handle":"earrings","title":"Earrings","updated_at":"2024-04-20T17:25:06+10:00","body_html":"\u003cmeta charset=\"utf-8\"\u003e\u003cspan data-mce-fragment=\"1\"\u003eEndlessly versatile, perfect to elevate a look from day to night. Curate with our layering essentials of studs and hoops.\u003c\/span\u003e","published_at":"2018-04-10T11:28:48+10:00","sort_order":"manual","template_suffix":"earrings","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"earrings"},{"column":"title","relation":"not_contains","condition":"backs"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"type","relation":"not_equals","condition":"Sale"},{"column":"title","relation":"not_contains","condition":"Sample"},{"column":"type","relation":"not_equals","condition":"Supplies"},{"column":"type","relation":"not_equals","condition":"Bundle"}],"published_scope":"global","image":{"created_at":"2022-02-10T13:16:54+11:00","alt":"","width":1920,"height":800,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/CollectionBannerDesktop-Earrings_1.jpg?v=1699221514"}},{"id":270191853633,"handle":"80-99","title":"Gifts $80-$99","updated_at":"2024-04-20T17:25:06+10:00","body_html":"","published_at":"2022-11-08T07:59:39+11:00","sort_order":"manual","template_suffix":"","disjunctive":false,"rules":[{"column":"variant_price","relation":"greater_than","condition":"80"},{"column":"variant_price","relation":"less_than","condition":"99"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"type","relation":"not_equals","condition":"Sale"},{"column":"title","relation":"not_contains","condition":"Sample"},{"column":"type","relation":"not_contains","condition":"Supplies"}],"published_scope":"global","image":{"created_at":"2022-11-08T09:49:36+11:00","alt":"","width":1920,"height":800,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/80to100-Desktop.jpg?v=1699507115"}},{"id":155176894529,"handle":"under-100","title":"Gifts Under $100","updated_at":"2024-04-20T17:25:06+10:00","body_html":"","published_at":"2019-11-29T14:10:49+11:00","sort_order":"manual","template_suffix":"","disjunctive":false,"rules":[{"column":"variant_price","relation":"less_than","condition":"100"},{"column":"title","relation":"not_contains","condition":"fee"},{"column":"title","relation":"not_contains","condition":"shipping"},{"column":"title","relation":"not_contains","condition":"extension"},{"column":"title","relation":"not_contains","condition":"backs"},{"column":"title","relation":"not_contains","condition":"wrapping"},{"column":"variant_price","relation":"greater_than","condition":"58"},{"column":"type","relation":"not_contains","condition":"Supplies"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"title","relation":"not_contains","condition":"Sample"},{"column":"type","relation":"not_equals","condition":"Bundle"}],"published_scope":"global","image":{"created_at":"2022-01-28T17:38:13+11:00","alt":null,"width":2880,"height":760,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/GiftsUnder100Collection_1.jpg?v=1646892983"}},{"id":271737454657,"handle":"gold-earrings","title":"Gold Earrings","updated_at":"2024-04-20T17:25:06+10:00","body_html":"","published_at":"2023-04-17T09:51:27+10:00","sort_order":"best-selling","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour:Gold"},{"column":"type","relation":"equals","condition":"Earrings"}],"published_scope":"global"},{"id":277041512513,"handle":"mothers-day-gift-guide","updated_at":"2024-04-20T16:20:07+10:00","published_at":"2024-04-02T11:24:41+11:00","sort_order":"manual","template_suffix":"mothers-day-gift-guide","published_scope":"web","title":"Mothers Day Gift Guide","body_html":"","image":{"created_at":"2024-04-02T11:18:19+11:00","alt":null,"width":2880,"height":1300,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Collection-OurTopPicks-Desktop.webp?v=1712017100"}},{"id":271737487425,"handle":"rose-gold-earrings","title":"Rose Gold Earrings","updated_at":"2024-04-20T17:25:06+10:00","body_html":"","published_at":"2023-04-17T09:52:20+10:00","sort_order":"best-selling","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour: Rose Gold"},{"column":"type","relation":"equals","condition":"Earrings"}],"published_scope":"global"},{"id":275111379009,"handle":"elyse","title":"Siblings - Elyse","updated_at":"2024-04-18T18:25:11+10:00","body_html":"","published_at":"2024-01-29T12:27:03+11:00","sort_order":"best-selling","template_suffix":"","disjunctive":false,"rules":[{"column":"title","relation":"contains","condition":"Elyse"}],"published_scope":"web"},{"id":271737520193,"handle":"silver-earrings","title":"Silver Earrings","updated_at":"2024-04-20T17:25:06+10:00","body_html":"","published_at":"2023-04-17T09:53:02+10:00","sort_order":"best-selling","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour:Silver"},{"column":"type","relation":"equals","condition":"Earrings"}],"published_scope":"global"},{"id":271881273409,"handle":"statement","updated_at":"2024-04-20T15:50:06+10:00","published_at":"2023-05-19T11:52:47+10:00","sort_order":"manual","template_suffix":"","published_scope":"global","title":"Statement","body_html":""},{"id":263097516097,"handle":"silver","title":"STERLING SILVER","updated_at":"2024-04-20T17:25:06+10:00","body_html":"\u003cmeta charset=\"utf-8\"\u003e\u003cspan data-mce-fragment=\"1\"\u003eDiscover jewellery made from 925 Sterling Silver and plated with Rhodium.\u003c\/span\u003e","published_at":"2021-11-26T16:41:05+11:00","sort_order":"manual","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour:Silver"},{"column":"title","relation":"not_contains","condition":"backs"},{"column":"title","relation":"not_contains","condition":"extensions"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"type","relation":"not_contains","condition":"Sale"},{"column":"type","relation":"not_contains","condition":"Sample"},{"column":"title","relation":"not_contains","condition":"Silver Member's"},{"column":"type","relation":"not_equals","condition":"Bundle"}],"published_scope":"global","image":{"created_at":"2022-07-04T15:17:18+10:00","alt":"","width":1920,"height":800,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Silver-Desktop.jpg?v=1699221974"}},{"id":272022110273,"handle":"sterling-silver-1","title":"Sterling Silver","updated_at":"2024-04-20T17:25:06+10:00","body_html":"Discover jewellery made from 925 Sterling Silver and plated with Rhodium.","published_at":"2023-06-22T11:02:24+10:00","sort_order":"manual","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Colour:Silver"},{"column":"type","relation":"not_equals","condition":"Sale"},{"column":"type","relation":"not_equals","condition":"Sample"},{"column":"type","relation":"not_equals","condition":"Accessories"},{"column":"title","relation":"not_contains","condition":"Yolanda"},{"column":"title","relation":"not_contains","condition":"Boston Cuff"},{"column":"title","relation":"not_contains","condition":"Hunter Cuff"},{"column":"title","relation":"not_contains","condition":"Signature Cuff"},{"column":"title","relation":"not_contains","condition":"Silver Member's"},{"column":"type","relation":"not_equals","condition":"Bundle"}],"published_scope":"global"},{"id":156319907905,"handle":"storewide-tsc","updated_at":"2024-04-20T17:25:06+10:00","published_at":"2020-03-17T14:57:56+11:00","sort_order":"manual","template_suffix":"","published_scope":"global","title":"Storewide","body_html":"\u003cmeta charset=\"utf-8\"\u003e\u003cbr\u003e"},{"id":132720361537,"handle":"storewide-sale","updated_at":"2024-04-20T17:25:06+10:00","published_at":"2023-08-07T13:47:39+10:00","sort_order":"manual","template_suffix":"","published_scope":"web","title":"STOREWIDE SALE","body_html":"\u003cspan data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\"\u003eThe 30% OFF Storewide offer starts 8am AEST Thursday 10th of August 2023 and ends 9am AEST Monday 14th of August 2023. To redeem, enter code WETURN8 at checkout. Cannot be used in conjunction with any other offers, discount codes or promotions. Offer cannot be redeemed on previous orders or purchases made after the promotion date. Excludes Gift Cards, Accessories, Extensions and Limited Edition items. Available online and in-store. \u003c\/span\u003e"},{"id":34644721729,"handle":"view-all","title":"VIEW ALL","updated_at":"2024-04-20T17:25:06+10:00","body_html":"\u003cscript type=\"application\/ld+json\"\u003e\n{\n  \"@context\": \"https:\/\/schema.org\/\", \n  \"@type\": \"BreadcrumbList\", \n  \"itemListElement\": [{\n    \"@type\": \"ListItem\", \n    \"position\": 1, \n    \"name\": \"The Silver Collective\",\n    \"item\": \"https:\/\/thesilvercollective.com\/\"  \n  },{\n    \"@type\": \"ListItem\", \n    \"position\": 2, \n    \"name\": \"Shop All\",\n    \"item\": \"https:\/\/thesilvercollective.com\/collections\/view-all\"  \n  }]\n}\n\u003c\/script\u003e\n","published_at":"2018-04-10T16:22:49+10:00","sort_order":"alpha-asc","template_suffix":"","disjunctive":false,"rules":[{"column":"variant_price","relation":"greater_than","condition":"0"},{"column":"type","relation":"not_contains","condition":"Shipping"},{"column":"title","relation":"not_contains","condition":"replacement"},{"column":"title","relation":"not_contains","condition":"mystery"},{"column":"title","relation":"not_contains","condition":"GWP"},{"column":"type","relation":"not_equals","condition":"Supplies"},{"column":"type","relation":"not_equals","condition":"Sample"}],"published_scope":"global"},{"id":269133611073,"handle":"wedding-guests","updated_at":"2024-04-20T13:50:10+10:00","published_at":"2022-09-06T09:48:32+10:00","sort_order":"manual","template_suffix":"wedding-guest-collection","published_scope":"global","title":"Wedding Guests","body_html":"","image":{"created_at":"2022-09-06T12:09:53+10:00","alt":null,"width":2880,"height":760,"src":"\/\/thesilvercollective.com\/cdn\/shop\/collections\/Guest-Desktop.jpg?v=1662430193"}}];
+
+    
+    _POConfig.product.variants[0]['inventory_quantity'] = 0;
+    
+    _POConfig.product.variants[1]['inventory_quantity'] = 12;
+    
+    _POConfig.product.variants[2]['inventory_quantity'] = 30;
+    
+
+     _POConfig.product.selected_or_first_available_variant = {"id":40853239889985,"title":"Rose Gold","option1":"Rose Gold","option2":null,"option3":null,"sku":"2134","requires_shipping":true,"taxable":true,"featured_image":{"id":31948222464065,"product_id":6582011985985,"position":8,"created_at":"2024-03-07T10:36:27+11:00","updated_at":"2024-03-07T10:36:29+11:00","alt":null,"width":1024,"height":1024,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/Silver-Collective-11-Aug-2021_0019_-_1_329b6403-873c-47c9-b663-bb0120d0440f.jpg?v=1709768189","variant_ids":[40853239889985]},"available":true,"name":"Elyse Drop Earrings - Rose Gold","public_title":"Rose Gold","options":["Rose Gold"],"price":8300,"weight":38,"compare_at_price":null,"inventory_management":"shopify","barcode":"19764033","featured_media":{"alt":null,"id":24743208386625,"position":8,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"\/\/thesilvercollective.com\/cdn\/shop\/files\/Silver-Collective-11-Aug-2021_0019_-_1_329b6403-873c-47c9-b663-bb0120d0440f.jpg?v=1709768189"}},"requires_selling_plan":false,"selling_plan_allocations":[]};
+    _POConfig.product.selected_or_first_available_variant['inventory_quantity'] = 30;
+    
+
+    
+      _POConfig.cart={"note":null,"attributes":{},"original_total_price":0,"total_price":0,"total_discount":0,"total_weight":0.0,"item_count":0,"items":[],"requires_shipping":false,"currency":"AUD","items_subtotal_price":0,"cart_level_discount_applications":[],"checkout_charge_amount":0}
+      
+    
+/*==============================================================================
+# Finish map to appikon-pre-order-helper.ftl
+==============================================================================*/
+   </script>
+   <div class="appikon-pre-order-liquid-helper" style="display: none!important;">
+   </div>
+  </div>
+  <div class="shopify-block shopify-app-block" id="shopify-block-10830403595879607806">
+   <script>
+    var reviewsIoStore = 'thesilvercollective.com';
+  
+  
+    
+      
+      var reviewsIoLang = 'en';
+   </script>
+  </div>
+  <div class="shopify-block shopify-app-block" id="shopify-block-4139971114690857691">
+   <script id="wkCollectionButtons" type="application/json">
+    {
+    "injectMethod": "insertAfter",
+    "buttonPlacement": "top-start",
+    "productLinkSelector": "",
+    "injectReferenceJs": "(target, app) => target",
+    "floatingReferenceJs": "(target, app) => target",
+    "productHandleJs": "(target, app) => app.theme.getProductHandle(target.element.href)",
+    "productVariantJs": "(target, app) => app.theme.getVariantId(target.element.href)",
+    "integration": {
+      "productLinkSelector": "",
+      "injectReferenceJs": "(target, app) => target",
+      "floatingReferenceJs": "(target, app) => target",
+      "productHandleJs": "(target, app) => app.theme.getProductHandle(target.element.href)",
+      "productVariantJs": "(target, app) => app.theme.getVariantId(target.element.href)"
+    }
+  }
+   </script>
+   <!-- BEGIN app snippet: z-legacy-collection-buttons-module -->
+   <script>
+    if (!window.WishlistKingEmbed) {
+    window.WishlistKingEmbed = {
+      dependencies: [],
+    };
+  }
+  window.WishlistKingEmbed.dependencies = [
+    ...window.WishlistKingEmbed.dependencies,
+    "https://cdn.shopify.com/extensions/4e4dd1d8-1062-4a14-9fe2-d1c71c5aae0e/wishlist-king-162/assets/component-wishlist-button-collection.css",
+  ];
+   </script>
+   <script type="module">
+    const runWhenReady = () => {
+    const app = window.WishlistKing;
+    if (!app) {
+      return window.document.addEventListener('wk:app:created', runWhenReady, {
+        once: true,
+      });
+    }
+
+    const appSettings = JSON.parse(document.getElementById('wkAppSettings').text);
+    const collectionButtons = JSON.parse(document.getElementById('wkCollectionButtons').text);
+    const config = collectionButtons.productLinkSelector ? collectionButtons : appSettings.collectionButtons;
+
+    import("https://cdn.shopify.com/extensions/4e4dd1d8-1062-4a14-9fe2-d1c71c5aae0e/wishlist-king-162/assets/z-legacy-wishlist-button-collection.js").then(({ inject }) => {
+      inject({
+        app,
+        injectMethod: config.injectMethod,
+        placement: collectionButtons.buttonPlacement,
+        selector: decodeURIComponent(config.productLinkSelector),
+        getInjectReference: eval(config.injectReferenceJs),
+        getFloatReference: eval(config.floatingReferenceJs),
+        getProductHandle: eval(config.productHandleJs),
+        getProductVariant: eval(config.productVariantJs),
+      });
+
+      if (collectionButtons.integration.productLinkSelector) {
+        inject({
+          app,
+          injectMethod: 'insertAfter',
+          placement: collectionButtons.buttonPlacement,
+          selector: decodeURIComponent(collectionButtons.integration.productLinkSelector),
+          getInjectReference: eval(collectionButtons.integration.injectReferenceJs),
+          getFloatReference: eval(collectionButtons.integration.floatingReferenceJs),
+          getProductHandle: eval(collectionButtons.integration.productHandleJs),
+          getProductVariant: eval(collectionButtons.integration.productVariantJs),
+        });
+      }
+    });
+  };
+  runWhenReady();
+   </script>
+   <!-- END app snippet -->
+   <style>
+    wishlist-button-collection {
+    --icon-size: 18px;
+    --icon-stroke-width: 1px;
+    --button-offset-vertical: 0px;
+    --button-offset-horizontal: 0px;
+    --button-background-size: 34px;
+    --button-background-border-radius: 24px;
+    --button-border-width: 1px;
+    --button-background-opacity: 85%;
+
+    --button-background: none;
+    --button-border: none;
+    --icon-stroke: rgb(var(--wk-color-accent-1));
+
+    
+  }
    </style>
   </div>
  </body>
